@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Copper Forge
 description: Melts raw copper ore into copper.
 liquidCapacity: 50
@@ -6,7 +6,7 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 60
+craftTime: 15
 updateEffect: smeltsmoke
 consumes: {
   power: 0.5

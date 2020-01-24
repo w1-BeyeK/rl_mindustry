@@ -1,0 +1,10 @@
+type: Conveyor
+name: Aluminum conveyor
+description: Aluminum conveyor, a lot faster than the standard one.
+requirements: [
+    aluminum/10
+]
+category: distribution
+speed: 0.25
+itemCapacity:40
+research: titanium-conveyor

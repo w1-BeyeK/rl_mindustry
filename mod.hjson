@@ -1,6 +1,6 @@
-name: "real life mindustry mod"
+name: "Real life mindustry mod"
 displayName: "[gold]Real Life[gold] Mod"
 author: "Kevin Beye & Thomas v. Ijzendoorn"
 description: "New mod containing real life industrial shit"
-version: "1.0"
+version: "0.1"
 minGameVersion: "103"

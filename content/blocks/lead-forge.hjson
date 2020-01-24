@@ -21,7 +21,7 @@ requirements: [
   lead/15
 ]
 category: crafting
-research: copper-rorge
+research: copper-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: lead/1

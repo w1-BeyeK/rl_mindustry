@@ -1,6 +1,6 @@
 name: Copper Crags
 description: Copper and other resources lie here.
-loadout: basicFoundation
+loadout: basicShard
 startingItems: [
   copper/300
   lead/300

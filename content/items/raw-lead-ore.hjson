@@ -1,0 +1,6 @@
+type: resource
+name: Raw Lead Ore
+description: raw lead ore.
+hardness: 1
+cost: 1
+color: ffffff

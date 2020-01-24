@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Lead Forge
+description: Melts raw lead ore into copper.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      raw-lead-ore/2
+    ]
+  }
+}
+requirements: [
+  copper/20
+  lead/15
+]
+category: crafting
+research: copper-rorge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: lead/1

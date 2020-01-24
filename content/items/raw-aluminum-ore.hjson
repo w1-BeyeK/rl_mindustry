@@ -1,0 +1,6 @@
+type: resource
+name: Raw Aluminum Ore
+description: raw aluminum ore.
+hardness: 1
+cost: 1
+color: ffffff

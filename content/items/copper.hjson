@@ -1,0 +1,6 @@
+type: material
+name: Copper
+description: Raw copper ore.
+hardness: 1
+cost: 1
+color: ffffff

@@ -1,0 +1,20 @@
+name: Copper Crags
+description: Copper and other resources lie here.
+loadout: basicFoundation
+startingItems: [
+  copper/300
+  lead/300
+]
+conditionWave: 25
+launchPeriod: 25
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 1
+  }
+]
+resources: [
+  copper
+  lead
+]

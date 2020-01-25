@@ -1,0 +1,6 @@
+type: material
+name: Cast iron
+description: Hardened iron bar.
+hardness: 1
+cost: 1
+color: ffffff

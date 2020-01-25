@@ -1,10 +1,10 @@
 type: GenericSmelter
-name: Aluminum Forge
-description: Melts raw aluminum ore into copper.
-liquidCapacity: 50
-size: 2
+name: Sterling Silver Forge
+description: Sterling Silver forge.
+liquidCapacity: 0
+size: 3
 hasPower: true
-hasLiquids: true
+hasLiquids: false
 hasItems: true
 craftTime: 15
 updateEffect: smeltsmoke
@@ -12,7 +12,8 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      raw-aluminum-ore/2
+      silver/3
+	  copper/1
     ]
   }
 }
@@ -21,7 +22,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: copper-forge
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: aluminum/1
+outputItem: sterling-silver/2

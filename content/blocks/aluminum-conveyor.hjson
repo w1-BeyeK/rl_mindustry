@@ -1,0 +1,10 @@
+type: Conveyor
+name: Aluminum conveyor
+description: Aluminum conveyor, it's fast.
+requirements: [
+    aluminum/10
+]
+category: distribution
+speed: 0.45
+itemCapacity:60
+research: conveyor

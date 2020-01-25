@@ -1,0 +1,6 @@
+type: resource
+name: Sodium
+description: sodium.
+hardness: 1
+cost: 1
+color: ffffff

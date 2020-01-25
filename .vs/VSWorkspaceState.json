@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\content",
+    "\\content\\blocks",
+    "\\content\\items",
+    "\\content\\liquids",
+    "\\content\\mechs",
+    "\\content\\units",
+    "\\content\\zones",
+    "\\sprites",
+    "\\sprites\\blocks",
+    "\\sprites\\blocks\\conveyors"
+  ],
+  "SelectedNode": "\\sprites\\blocks\\conveyors",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,6 +1,9 @@
 name: "Real life mindustry mod"
 displayName: "[blue]Real Life[gold] Mod"
-author: "Deserate, Hellfire_NL, SakuraLilly"
+author: "[red]Deserate (Content), 
+[orange]Hellfire_NL (Content), 
+[pink]SakuraLilly (Art), 
+[blue]Verty (Testing)"
 description: "New mod containing real life industrial stuff"
-version: "0.19"
+version: "0.2"
 minGameVersion: "103"

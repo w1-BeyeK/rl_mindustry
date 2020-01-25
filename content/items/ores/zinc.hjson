@@ -1,0 +1,6 @@
+type: material
+name: Zinc
+description: Melted zinc bar.
+hardness: 1
+cost: 1
+color: ffffff

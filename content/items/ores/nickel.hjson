@@ -1,0 +1,6 @@
+type: material
+name: Nickel
+description: Melted nickel bar.
+hardness: 1
+cost: 1
+color: ffffff

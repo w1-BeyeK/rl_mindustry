@@ -1,0 +1,6 @@
+type: material
+name: Palladium
+description: Melted palladium bar.
+hardness: 1
+cost: 1
+color: ffffff

@@ -1,0 +1,6 @@
+type: material
+name: Tungsten
+description: Melted tungsten bar.
+hardness: 1
+cost: 1
+color: ffffff

@@ -1,0 +1,6 @@
+type: material
+name: Uranium cell
+description: Cell made out of uranium.
+hardness: 1
+cost: 1
+color: ffffff

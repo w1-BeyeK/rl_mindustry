@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: Lipo Factory
+description: Factory that produces lipo batteries.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      lithium/2
+	  aluminum/1
+    ]
+  }
+   liquid: {
+    liquid: mercury
+    amount: 1
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: lipo-battery/1

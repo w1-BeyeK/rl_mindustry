@@ -1,0 +1,6 @@
+type: resource
+name: Raw Palladium Ore
+description: raw palladium ore.
+hardness: 2
+cost: 2
+color: 00ff00

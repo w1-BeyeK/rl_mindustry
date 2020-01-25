@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Gunmetal Forge
+description: Gunmetal forge.
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      copper/5
+	  tin/1
+	  zinc/1
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: copper-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: gunmetal/3

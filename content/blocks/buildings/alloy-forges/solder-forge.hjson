@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Solder Forge
+description: Solder forge.
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      tin/1
+	  lead/1
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: solder/1

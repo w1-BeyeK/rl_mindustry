@@ -1,0 +1,20 @@
+type: SolarGenerator
+name: Windmill Generator
+description: Produces power from wind
+size: 1
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 0.75
+consumes: {
+  items: {
+    items: [
+    ]
+    optional: true
+  }
+}
+requirements: [
+  copper/15
+]
+category: power
+research: mechanical-drill

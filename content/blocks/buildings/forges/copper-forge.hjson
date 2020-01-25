@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Copper Forge
+description: Melts raw copper ore into copper.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      raw-copper-ore/2
+    ]
+  }
+}
+requirements: [
+  copper/10
+  lead/5
+]
+category: crafting
+research: mechanical-drill
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: copper/1

@@ -1,10 +1,10 @@
 type: GenericSmelter
-name: Aluminum Forge
-description: Melts raw aluminum ore into copper.
-liquidCapacity: 50
+name: Solder Forge
+description: Solder forge.
+liquidCapacity: 0
 size: 2
 hasPower: true
-hasLiquids: true
+hasLiquids: false
 hasItems: true
 craftTime: 15
 updateEffect: smeltsmoke
@@ -12,7 +12,8 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      raw-aluminum-ore/2
+      tin/1
+	  lead/1
     ]
   }
 }
@@ -24,4 +25,4 @@ category: crafting
 research: lead-forge
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: aluminum/1
+outputItem: solder/1

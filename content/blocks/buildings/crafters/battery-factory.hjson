@@ -12,8 +12,9 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      sand/3
-	  calcium/1
+      nickel/2
+	  cadmium/1
+	  aluminum/1
     ]
   }
 }

@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Aluminum Forge
-description: Melts raw aluminum ore into copper.
+description: Melts raw aluminum ore into aluminium.
 liquidCapacity: 50
 size: 2
 hasPower: true

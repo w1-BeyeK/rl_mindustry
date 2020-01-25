@@ -1,0 +1,22 @@
+type: GenericSmelter
+name: Nitrogen distiller
+description: Forms nitrogens.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 3 
+}
+requirements: [
+  copper/60
+  lead/40
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: liquid-nitrogen/1

@@ -1,0 +1,6 @@
+type: material
+name: Cement
+description: Cement used to make roads.
+hardness: 1
+cost: 1
+color: ffffff

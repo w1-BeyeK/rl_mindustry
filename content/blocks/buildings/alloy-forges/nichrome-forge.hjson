@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Nichrome Forge
+description: Nichrome forge.
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      nickel/4
+	  chromium/1
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: copper-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: nichrome/2

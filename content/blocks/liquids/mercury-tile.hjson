@@ -1,0 +1,9 @@
+type: Floor
+liquidDrop: mercury
+isLiquid: true
+drownTime: 150
+status: burning
+statusDuration: 240
+speedMultiplier: 0.19
+variants: 1
+cacheLayer: tar

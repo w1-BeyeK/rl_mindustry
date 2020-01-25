@@ -1,0 +1,6 @@
+type: resource
+name: Raw Titanium Ore
+description: raw titanium ore.
+hardness: 1
+cost: 1
+color: ffffff

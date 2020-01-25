@@ -1,12 +1,12 @@
 name: Copper Crags
 description: Copper and other resources lie here.
-loadout: basicShard
+loadout: basicFoundation
 startingItems: [
-  copper/300
-  lead/300
+  copper/500
+  lead/200
 ]
-conditionWave: 25
-launchPeriod: 25
+conditionWave: 10
+launchPeriod: 10
 requirements: [
   {
     type: ZoneWave
@@ -17,4 +17,5 @@ requirements: [
 resources: [
   copper
   lead
+  aluminum
 ]

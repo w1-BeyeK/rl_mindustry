@@ -1,0 +1,6 @@
+type: resource
+name: Raw Tungsten Ore
+description: raw tungsten ore.
+hardness: 2
+cost: 2
+color: ffffff

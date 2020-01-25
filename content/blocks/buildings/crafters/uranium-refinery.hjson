@@ -12,7 +12,7 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      uranium/1
+      raw-uranium-ore/1
 	  magnox/1
     ]
   }

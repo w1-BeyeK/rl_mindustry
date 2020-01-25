@@ -1,0 +1,6 @@
+type: material
+name: Calcium
+description: Calcium.
+hardness: 1
+cost: 1
+color: ffffff

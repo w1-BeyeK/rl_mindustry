@@ -1,0 +1,6 @@
+type: material
+name: Diamond
+description: Diamond.
+hardness: 1
+cost: 1
+color: ffffff

@@ -1,0 +1,6 @@
+type: material
+name: Lithium
+description: Lithium.
+hardness: 1
+cost: 1
+color: ffffff

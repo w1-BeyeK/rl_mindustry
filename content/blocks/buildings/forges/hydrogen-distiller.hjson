@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Hydrogen distiller
+description: Forms hydrogen.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 5 
+  items:
+  {
+	items:
+		[
+			sodium/1
+		]
+  }
+  liquid: {
+    liquid: water
+    amount: 3
+  }
+}
+requirements: [
+  copper/60
+  lead/40
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: hydrogen/1

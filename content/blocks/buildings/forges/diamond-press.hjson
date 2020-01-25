@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Diamond press
+description: Compresses carbon into diamond.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      carbon/10
+    ]
+  }
+}
+requirements: [
+  copper/60
+  lead/40
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: diamond/1

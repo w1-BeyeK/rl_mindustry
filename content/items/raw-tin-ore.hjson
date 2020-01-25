@@ -1,0 +1,6 @@
+type: resource
+name: Raw Tin Ore
+description: raw tin ore.
+hardness: 1
+cost: 1
+color: ffffff

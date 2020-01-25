@@ -1,0 +1,6 @@
+type: resource
+name: Raw Silver Ore
+description: raw silver ore.
+hardness: 2
+cost: 2
+color: ffffff

@@ -1,0 +1,6 @@
+type: resource
+name: Raw Potassium Ore
+description: raw potassium ore.
+hardness: 1
+cost: 1
+color: ffffff

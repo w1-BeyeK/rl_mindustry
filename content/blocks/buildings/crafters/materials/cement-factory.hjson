@@ -25,4 +25,4 @@ category: crafting
 research: lead-forge
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: nicd-battery/1
+outputItem: cement/1

@@ -1,0 +1,40 @@
+type: ItemTurret
+name: Sniper Turret
+description: Shoots from afar towards distanctant enemies.
+health: 200
+size: 2
+reload: 3
+range: 240
+ammoUseEffect: shellEjectSmall
+inaccuracy: 5
+rotatespeed: 8
+ammo: {
+  7-62mm: {
+	type: MissileBulletType
+    speed: 8
+    damage: 56
+    bulletWidth: 3
+    bulletHeight: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  50-cal: {
+	type: MissileBulletType
+    speed: 10
+    damage: 150
+    bulletWidth: 4
+    bulletHeight: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  gun-mantlet/1
+  gun-barrel/1
+  ammo-loader/1
+  targeting-system/1
+]
+category: turret
+research: copper-forge

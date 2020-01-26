@@ -1,0 +1,47 @@
+type:  BurstTurret
+name: Shotgun Turret
+description: Close combat spray turret.
+health: 200
+size: 2
+reload: 10
+burstSpacing:2
+range: 120
+ammoUseEffect: shellEjectSmall
+inaccuracy: 20
+rotatespeed: 20
+shots:5
+targetAir:false
+targetGround:true
+ammo: {
+  12-gauge: {
+	type: FlakBulletType
+	explodeRange:10
+	knockback:5
+    speed: 8
+    damage: 40
+    bulletWidth: 3
+    bulletHeight: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+  scrap: {
+	type: FlakBulletType
+    speed: 5
+    damage: 20
+	knockback:2
+	explodeRange:15
+    bulletWidth: 2
+    bulletHeight: 4
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  }
+}
+requirements: [
+  gun-mantle/1
+  gun-barrel/2
+  ammo-loader/1  
+]
+category: turret
+research: duo

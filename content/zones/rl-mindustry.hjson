@@ -1,0 +1,41 @@
+name: RL Mindustry
+description: RL Mindustry map that covers all major resources
+loadout: basicNucleus
+startingItems: [
+  copper/1000
+  lead/500
+]
+conditionWave: 15
+launchPeriod: 15
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 1
+  }
+]
+resources: [
+  copper
+  lead
+  aluminum
+  cadmium
+  calcium
+  cesium
+  chromium
+  cobalt
+  galium
+  gold
+  iron
+  lithium
+  magnesium
+  nickel
+  palladium
+  silver
+  sodium
+  tin
+  tungsten
+  zinc
+  diamond
+  titanium
+  thorium
+]

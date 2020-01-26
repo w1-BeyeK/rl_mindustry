@@ -1,0 +1,39 @@
+type: DoubleTurret
+name: Machine Gun Turret
+description: Shoots from afar towards distanctant enemies.
+health: 500
+size: 1
+reload: 2
+range: 150
+ammoUseEffect: shellEjectSmall
+inaccuracy: 15
+rotatespeed: 9
+ammo: {
+  missile: {
+	type: MissileBulletType
+    speed: 45
+    damage: 250
+    homingPower: 3
+	homingRange: 25
+	splashDamageRadius: 2
+	splashDamage: 100
+    ammoMultiplier: 1
+  }
+  he-missile: {
+	type: MissileBulletType
+    speed: 45
+    damage: 150
+    homingPower: 1
+	homingRange: 15
+	splashDamageRadius: 4
+	splashDamage: 250
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  gun-mantlet/1
+  gun-barrel/1
+  ammo-loader/1
+]
+category: turret
+research: copper-forge

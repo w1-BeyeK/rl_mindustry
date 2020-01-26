@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Gunpowder Factory
+description: Factory that produces gunpowder used in ammunition.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      raw-potassium-ore/3
+	  coal/2
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: gunpowder/5

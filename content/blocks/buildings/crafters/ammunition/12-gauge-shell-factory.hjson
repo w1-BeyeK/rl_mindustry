@@ -1,6 +1,6 @@
-type: GenericSmelter
-name: Lead Forge
-description: Melts raw lead ore into lead.
+type: GenericCrafter
+name: 12-gauge Shell Factory
+description: Factory that produces 12-gauge ammunition.
 liquidCapacity: 50
 size: 2
 hasPower: true
@@ -12,16 +12,17 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      raw-lead-ore/2
+      gunpowder/2
+	  scrap/3
     ]
   }
 }
 requirements: [
-  copper/20
-  lead/15
+  copper/30
+  lead/30
 ]
 category: crafting
-research: copper-forge
+research: lead-forge
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: lead/1
+outputItem: 12-gauge/2

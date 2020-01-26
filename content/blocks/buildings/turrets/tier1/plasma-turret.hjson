@@ -1,0 +1,38 @@
+type: ItemTurret
+name: Plasma Turret
+description: Shoots plasma towards enemies.
+health: 400
+size: 2
+reload: 12
+range: 180
+ammoUseEffect: shellEjectSmall
+inaccuracy: 10
+rotatespeed: 9
+targetAir: false
+ammo: {
+	nicd-battery: {
+		speed: 50
+		damage: 60
+		bulletWidth: 3
+		bulletHeight: 6
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 1
+	}
+	lipo-battery: {
+		speed: 70
+		damage: 100
+		bulletWidth: 5
+		bulletHeight: 12
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 2
+	}
+}
+requirements: [
+  gun-mantlet/1
+  gun-barrel/1
+  ammo-loader/1
+]
+category: turret
+research: copper-forge

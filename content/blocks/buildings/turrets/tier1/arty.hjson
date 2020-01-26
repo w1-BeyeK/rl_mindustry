@@ -1,0 +1,36 @@
+type:  ArtilleryTurret
+name: Arty
+description: Long range artillery.
+health: 200
+size: 2
+reload: 10
+targetAir:false
+targetGround:true
+range: 250
+ammoUseEffect: shellEjectSmall
+inaccuracy: 20
+rotatespeed: 20
+shots:1
+ammo: {
+  mortar-shell: {
+	type: ArtilleryBulletType
+	knockback:5
+    speed: 3
+    damage: 160
+	splashDamage:40
+	splashRadius:10
+    bulletWidth: 6
+    bulletHeight: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+}
+requirements: [
+  gun-mantle/1
+  gun-barrel/1
+  ammo-loader/1
+  targeting-system/1
+]
+category: turret
+research: duo

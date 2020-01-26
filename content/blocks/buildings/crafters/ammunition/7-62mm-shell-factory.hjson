@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: 7.62mm Shell Factory
+description: Factory that produces 7.62mm ammunition.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      gunpowder/3
+	  brass/1
+	  stainless-steel/1
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: 7-62mm/2

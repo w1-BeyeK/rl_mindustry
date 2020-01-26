@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Flak Shell Factory
+description: Factory that produces flak shells.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      gunpowder/4
+	  cast-iron/1
+	  magnesium/2
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: flak-shell/2

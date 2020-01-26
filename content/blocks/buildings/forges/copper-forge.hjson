@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: GenericSmelter
 name: Copper Forge
 description: Melts raw copper ore into copper.
 liquidCapacity: 50

@@ -1,0 +1,31 @@
+type: GenericCrafter
+name: Circuit Board Factory
+description: Factory that produces advanced circuit boards.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      silver/2
+	  gold/2
+	  palladium/1
+	  solder/1
+	  galium/1
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: circuit-board/1

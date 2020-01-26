@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Targeting System Developer
+description: Building that develops and creates Targeting Systems.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      circuit-board/1
+	  cesium/2
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/30
+]
+category: crafting
+research: lead-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: targeting-system/1

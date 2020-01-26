@@ -8,6 +8,7 @@ range: 180
 ammoUseEffect: shellEjectSmall
 inaccuracy: 10
 rotatespeed: 9
+targetAir: false
 ammo: {
 	nicd-battery: {
 		speed: 50

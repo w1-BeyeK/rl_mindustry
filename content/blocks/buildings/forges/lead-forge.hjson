@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Lead Forge
-description: Melts raw lead ore into copper.
+description: Melts raw lead ore into lead.
 liquidCapacity: 50
 size: 2
 hasPower: true

@@ -18,8 +18,10 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/60
+  titanium/30
+  iron/50
+  cast-iron/20
 ]
 category: crafting
 research: silver-forge

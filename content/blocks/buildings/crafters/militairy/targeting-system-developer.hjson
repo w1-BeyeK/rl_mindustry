@@ -13,13 +13,17 @@ consumes: {
   items: {
     items: [
       circuit-board/1
+	  metaglass/1
 	  cesium/2
     ]
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/300
+  lead/100
+  aluminum/90
+  zinc/30
+  circuit-board/10
 ]
 category: crafting
 research: circuit-board-factory

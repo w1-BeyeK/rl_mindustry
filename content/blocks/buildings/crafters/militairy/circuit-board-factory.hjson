@@ -23,6 +23,9 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  nickel/50
+  aluminum/50
+  zinc/50
 ]
 category: crafting
 research: palladium-forge

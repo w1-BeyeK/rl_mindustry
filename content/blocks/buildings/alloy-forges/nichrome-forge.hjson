@@ -18,8 +18,9 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  lead/70
+  titanium/30
+  aluminum/30
 ]
 category: crafting
 research: nickel-forge

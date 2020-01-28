@@ -23,11 +23,13 @@ consumes: {
   }
 }
 requirements: [
-  copper/60
-  lead/40
+  copper/70
+  lead/30
+  titanium/90
+  thorium/60
 ]
 category: crafting
-research: titanium-forge
+research: thorium-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputLiquid: hydrogen/1

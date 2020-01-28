@@ -17,8 +17,9 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/60
+  lead/45
+  aluminum/40
 ]
 category: crafting
 research: aluminum-forge

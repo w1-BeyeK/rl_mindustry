@@ -19,6 +19,9 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  thorium/40
+  titanium/40
+  aluminum/30
 ]
 category: crafting
 research: thorium-forge

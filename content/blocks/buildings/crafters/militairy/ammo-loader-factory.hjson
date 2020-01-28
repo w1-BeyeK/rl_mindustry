@@ -17,8 +17,10 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/80
+  lead/80
+  iron/40
+  aluminum/30
 ]
 category: crafting
 research: stainless-steel-forge

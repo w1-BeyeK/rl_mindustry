@@ -20,6 +20,9 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  titanium/40
+  aluminum/40
+  iron/40
 ]
 category: crafting
 research: cast-iron-forge

@@ -19,8 +19,9 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/70
+  lead/70
+  titanium/55
 ]
 category: crafting
 research: tin-forge

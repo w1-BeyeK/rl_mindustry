@@ -12,8 +12,10 @@ consumes: {
   power: 3 
 }
 requirements: [
-  copper/60
-  lead/40
+  copper/70
+  lead/60
+  aluminum/40
+  titanium/30
 ]
 category: crafting
 research: hydrogen-distiller

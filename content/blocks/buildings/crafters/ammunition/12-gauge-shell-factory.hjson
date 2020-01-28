@@ -18,8 +18,9 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  cast-iron/60
+  stainless-steel/20
+  bronze/15
 ]
 category: crafting
 research: gunpowder-factory

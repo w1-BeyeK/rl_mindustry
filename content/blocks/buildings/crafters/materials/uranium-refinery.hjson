@@ -18,8 +18,10 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  cast-iron/60
+  stainless-steel/80
+  duralumin/70
+  magnox/100
 ]
 category: crafting
 research: magnox-forge

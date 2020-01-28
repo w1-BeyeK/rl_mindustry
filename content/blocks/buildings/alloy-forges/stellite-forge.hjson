@@ -20,8 +20,10 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  tungsten/30
+   palladium/30
+   duralumin/50
+   stainless-steel/60
 ]
 category: crafting
 research: tungsten-forge

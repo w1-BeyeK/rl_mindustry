@@ -18,8 +18,9 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/80
+  lead/60
+  titanium/50
 ]
 category: crafting
 research: zinc-forge

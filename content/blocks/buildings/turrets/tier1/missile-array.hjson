@@ -1,5 +1,5 @@
 type: DoubleTurret
-name: Machine Gun Turret
+name: Missile Array
 description: Shoots from afar towards distanctant enemies.
 health: 500
 size: 3

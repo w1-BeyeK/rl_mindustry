@@ -21,7 +21,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: stainless-steel-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: ammo-loader/1

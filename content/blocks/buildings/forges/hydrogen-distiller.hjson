@@ -27,7 +27,7 @@ requirements: [
   lead/40
 ]
 category: crafting
-research: lead-forge
+research: titanium-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputLiquid: hydrogen/1

@@ -16,7 +16,7 @@ requirements: [
   lead/40
 ]
 category: crafting
-research: lead-forge
+research: hydrogen-distiller
 idleSound: respawning
 idleSoundVolume: 0.5
 outputLiquid: liquid-nitrogen/1

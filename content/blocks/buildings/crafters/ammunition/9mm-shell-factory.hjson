@@ -22,7 +22,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: 9mm/2

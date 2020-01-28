@@ -22,7 +22,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: copper-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: cement/1

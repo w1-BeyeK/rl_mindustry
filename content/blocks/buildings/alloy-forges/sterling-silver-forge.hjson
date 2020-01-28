@@ -22,7 +22,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: copper-forge
+research: silver-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: sterling-silver/2

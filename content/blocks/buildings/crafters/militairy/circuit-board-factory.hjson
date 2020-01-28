@@ -25,7 +25,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: palladium-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: circuit-board/1

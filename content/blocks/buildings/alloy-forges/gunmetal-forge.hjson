@@ -23,7 +23,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: copper-forge
+research: zinc-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: gunmetal/3

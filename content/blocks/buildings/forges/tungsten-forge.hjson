@@ -21,7 +21,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: thorium-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: tungsten/1

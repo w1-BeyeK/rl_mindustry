@@ -21,7 +21,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: gunmetal-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: gun-barrel/1

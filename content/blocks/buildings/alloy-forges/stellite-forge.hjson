@@ -24,7 +24,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: copper-forge
+research: tungsten-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: stellite/3

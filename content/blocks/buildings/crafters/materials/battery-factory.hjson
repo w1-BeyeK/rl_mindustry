@@ -23,7 +23,7 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: lead-forge
+research: nickel-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: nicd-battery/1

@@ -20,9 +20,12 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  titanium/40
+  aluminum/40
+  iron/40
 ]
 category: crafting
-research: lead-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: gun-mantlet/1

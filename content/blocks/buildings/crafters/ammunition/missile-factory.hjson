@@ -19,11 +19,12 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+   cast-iron/60
+  stainless-steel/60
+  duralumin/40
 ]
 category: crafting
-research: lead-forge
+research: 5-56mm-shell-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: missile/1

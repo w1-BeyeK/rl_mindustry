@@ -17,11 +17,13 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/80
+  lead/80
+  iron/40
+  aluminum/30
 ]
 category: crafting
-research: lead-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: ammo-loader/1

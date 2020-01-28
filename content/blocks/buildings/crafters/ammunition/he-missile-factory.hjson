@@ -18,11 +18,13 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+   cast-iron/80
+  stainless-steel/80
+  duralumin/20
+  magnox/20
 ]
 category: crafting
-research: lead-forge
+research: missile-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: he-missile/1

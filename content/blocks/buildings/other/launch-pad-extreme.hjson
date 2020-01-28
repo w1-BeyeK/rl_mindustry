@@ -1,0 +1,14 @@
+name: Launch pad extreme
+description: Super fast launch pad, for testing purposes.
+type: LaunchPad
+itemCapacity: 1000
+hasItems: true
+health: 10000
+consumesPower:false
+size: 3
+launchTime: 5
+requirements: [
+ copper/1
+]
+category: effect
+research: copper-forge

@@ -18,11 +18,12 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  lead/70
+  titanium/30
+  aluminum/30
 ]
 category: crafting
-research: copper-forge
+research: nickel-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: nichrome/2

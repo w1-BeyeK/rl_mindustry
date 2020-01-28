@@ -18,11 +18,12 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+   cast-iron/25
+  stainless-steel/45
+  bronze/25  
 ]
 category: crafting
-research: lead-forge
+research:  9mm-shell-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: 5-56mm/2

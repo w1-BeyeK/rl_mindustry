@@ -19,11 +19,13 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  aluminum/30
+  nichrome/20
+  iron/10
+  silver/5
 ]
 category: crafting
-research: lead-forge
+research: nickel-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: nicd-battery/1

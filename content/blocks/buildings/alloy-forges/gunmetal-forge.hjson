@@ -19,11 +19,12 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/80
+  aluminum/50
+  cast-iron/40
 ]
 category: crafting
-research: copper-forge
+research: zinc-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: gunmetal/3

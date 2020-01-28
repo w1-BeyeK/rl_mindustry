@@ -18,11 +18,13 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/60
+  titanium/30
+  iron/50
+  cast-iron/20
 ]
 category: crafting
-research: copper-forge
+research: silver-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: sterling-silver/2

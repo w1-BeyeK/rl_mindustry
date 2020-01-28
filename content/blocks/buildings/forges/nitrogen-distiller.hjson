@@ -12,11 +12,13 @@ consumes: {
   power: 3 
 }
 requirements: [
-  copper/60
-  lead/40
+  copper/70
+  lead/60
+  aluminum/40
+  titanium/30
 ]
 category: crafting
-research: lead-forge
+research: hydrogen-distiller
 idleSound: respawning
 idleSoundVolume: 0.5
 outputLiquid: liquid-nitrogen/1

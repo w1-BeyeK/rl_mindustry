@@ -22,11 +22,13 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  aluminum/50
+  nichrome/40
+  iron/40
+  silver/10
 ]
 category: crafting
-research: lead-forge
+research: battery-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: lipo-battery/1

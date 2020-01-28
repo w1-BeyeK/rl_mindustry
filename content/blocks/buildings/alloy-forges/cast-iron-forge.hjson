@@ -21,6 +21,7 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  iron/50
 ]
 category: crafting
 research: iron-forge

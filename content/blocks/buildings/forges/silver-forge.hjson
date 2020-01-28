@@ -17,11 +17,12 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/60
+  lead/45
+  aluminum/40
 ]
 category: crafting
-research: lead-forge
+research: aluminum-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: silver/1

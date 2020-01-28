@@ -17,11 +17,14 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/70
+  lead/40
+  titanium/40
+  nickel/40
+  aluminum/30
 ]
 category: crafting
-research: lead-forge
+research: nickel-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: zinc/1

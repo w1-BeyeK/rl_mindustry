@@ -17,11 +17,14 @@ consumes: {
   }
 }
 requirements: [
-  copper/60
-  lead/40
+  copper/150
+  lead/90
+  thorium/60
+  iron/80
+  palladium/60
 ]
 category: crafting
-research: lead-forge
+research: palladium-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: diamond/1

@@ -19,9 +19,12 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  thorium/40
+  titanium/40
+  aluminum/30
 ]
 category: crafting
-research: lead-forge
+research: thorium-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: tungsten/1

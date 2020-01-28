@@ -1,0 +1,13 @@
+name: Testing Vault
+description: Vault for testing purposes.
+type: Vault
+itemCapacity: 250000
+hasItems: true
+health: 10000
+consumesPower:false
+size: 3
+requirements: [
+ copper/1
+]
+category: effect
+research:  copper-forge

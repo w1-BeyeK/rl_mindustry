@@ -19,9 +19,10 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  iron/60
 ]
 category: crafting
-research: lead-forge
+research: iron-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: nickel/1

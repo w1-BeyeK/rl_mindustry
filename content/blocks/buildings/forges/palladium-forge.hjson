@@ -17,11 +17,14 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/200
+  lead/150
+  thorium/60
+  aluminum/50
+  tungsten/25
 ]
 category: crafting
-research: lead-forge
+research: tungsten-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: palladium/1

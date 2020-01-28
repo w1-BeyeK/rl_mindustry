@@ -2,7 +2,7 @@ type: Conveyor
 name: Aluminum conveyor
 description: Aluminum conveyor, it's fast.
 requirements: [
-    aluminum/10
+    aluminum/5
 ]
 category: distribution
 speed: 0.45

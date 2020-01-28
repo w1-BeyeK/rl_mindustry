@@ -23,9 +23,12 @@ consumes: {
 requirements: [
   copper/30
   lead/30
+  nickel/50
+  aluminum/50
+  zinc/50
 ]
 category: crafting
-research: lead-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: circuit-board/1

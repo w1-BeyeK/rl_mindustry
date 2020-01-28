@@ -30,7 +30,7 @@ ammo: {
 	}
 }
 requirements: [
-  gun-mantle/1
+  gun-mantlet/1
   gun-barrel/1
   ammo-loader/1
 ]

@@ -2,7 +2,7 @@ type: GenericCrafter
 name: Uranium refinery
 description: Factory that refines uranium.
 liquidCapacity: 50
-size: 2
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true

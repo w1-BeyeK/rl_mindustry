@@ -2,7 +2,7 @@ type: GenericSmelter
 name: Sterling Silver Forge
 description: Sterling Silver forge.
 liquidCapacity: 0
-size: 3
+size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true

@@ -53,7 +53,7 @@ ammo: {
   }
 }
 requirements: [
-  gun-mantlett/1
+  gun-mantlet/1
   gun-barrel/1
   ammo-loader/1
   targeting-system/1

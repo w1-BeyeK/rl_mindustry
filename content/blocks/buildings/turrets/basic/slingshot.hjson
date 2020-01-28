@@ -2,7 +2,7 @@ type: ItemTurret
 name: Slingshot
 description: Slingshot turret.
 health: 450
-size: 2
+size: 1
 reload: 8
 targetAir:true
 targetGround:true

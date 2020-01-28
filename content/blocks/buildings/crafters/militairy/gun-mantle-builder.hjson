@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: Gun Mantlet Builder
-description: Builder that produces Gun Mantlets.
+name: Gun Mantle Builder
+description: Builder that produces Gun Mantles.
 liquidCapacity: 50
 size: 2
 hasPower: true

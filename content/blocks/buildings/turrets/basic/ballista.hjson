@@ -1,0 +1,47 @@
+type:  BurstTurret
+name: AA Flak
+description: Close combat AA spray turret.
+health: 200
+size: 2
+reload: 10
+targetAir:true
+targetGround:false
+burstSpacing:2
+range: 160
+ammoUseEffect: shellEjectSmall
+inaccuracy: 20
+rotatespeed: 20
+shots:5
+ammo: {
+  flak-shell: {
+	type: FlakBulletType
+	explodeRange:10
+	knockback:5
+    speed: 8
+    damage: 80
+    bulletWidth: 3
+    bulletHeight: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+  scrap: {
+	type: FlakBulletType
+    speed: 5
+    damage: 20
+	knockback:2
+	explodeRange:15
+    bulletWidth: 2
+    bulletHeight: 4
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  }
+}
+requirements: [
+  gun-mantlet/1
+  gun-barrel/2
+  ammo-loader/2
+]
+category: turret
+research: shotgun-turret

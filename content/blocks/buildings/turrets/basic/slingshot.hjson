@@ -1,0 +1,51 @@
+type: ItemTurret
+name: Slingshot
+description: Slingshot turret.
+health: 450
+size: 2
+reload: 8
+targetAir:true
+targetGround:true
+burstSpacing:1
+range: 125
+ammoUseEffect: shellEjectSmall
+inaccuracy: 15
+rotatespeed: 15
+shots:1
+ammo: {
+  sand: {
+	knockback: 2
+    speed: 3
+    damage: 15
+    bulletWidth: 3
+    bulletHeight: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  raw-copper-ore: {
+	knockback: 0
+    speed: 4
+    damage: 25
+    bulletWidth: 3
+    bulletHeight: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+  raw-lead-ore: {
+	knockback: 0
+    speed: 5
+    damage: 45
+    bulletWidth: 3
+    bulletHeight: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+}
+requirements: [
+  copper/25
+]
+category: turret
+research: copper-forge

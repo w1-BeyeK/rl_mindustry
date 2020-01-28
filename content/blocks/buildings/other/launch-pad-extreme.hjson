@@ -6,7 +6,7 @@ hasItems: true
 health: 10000
 consumesPower:false
 size: 3
-launchTime: 5
+launchTime: 0.5
 requirements: [
  copper/1
 ]

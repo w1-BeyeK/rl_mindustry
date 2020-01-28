@@ -2,7 +2,7 @@ type:  ArtilleryTurret
 name: Arty
 description: Long range artillery.
 health: 200
-size: 2
+size: 3
 reload: 10
 targetAir:false
 targetGround:true

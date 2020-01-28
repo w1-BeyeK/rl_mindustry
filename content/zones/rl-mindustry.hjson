@@ -1,6 +1,6 @@
 name: RL Mindustry
 description: RL Mindustry map that covers all major resources
-loadout: core-only-2
+loadout: core-huge
 startingItems: [
   copper/1000
   lead/500

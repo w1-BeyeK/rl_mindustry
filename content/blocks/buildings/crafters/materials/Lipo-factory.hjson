@@ -28,7 +28,7 @@ requirements: [
   silver/10
 ]
 category: crafting
-research: aluminum-forge
+research: battery-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: lipo-battery/1

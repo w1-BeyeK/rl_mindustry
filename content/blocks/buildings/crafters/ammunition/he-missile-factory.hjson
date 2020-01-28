@@ -24,7 +24,7 @@ requirements: [
   magnox/20
 ]
 category: crafting
-research: gunpowder-factory
+research: missile-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: he-missile/1

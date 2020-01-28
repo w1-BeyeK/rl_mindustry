@@ -24,7 +24,7 @@ requirements: [
   duralumin/40
 ]
 category: crafting
-research: gunpowder-factory
+research: 5-56mm-shell-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: missile/1

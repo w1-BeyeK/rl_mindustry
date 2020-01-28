@@ -24,7 +24,7 @@ requirements: [
   bronze/25
 ]
 category: crafting
-research: gunpowder-factory
+research:  5-56mm-shell-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: 7-62mm/2

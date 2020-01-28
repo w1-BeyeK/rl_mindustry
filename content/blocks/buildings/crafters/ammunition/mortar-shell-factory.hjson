@@ -24,7 +24,7 @@ requirements: [
   duralumin/20
 ]
 category: crafting
-research: gunpowder-factory
+research: flak-shell-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: mortar-shell/1

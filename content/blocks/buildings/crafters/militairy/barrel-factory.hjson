@@ -23,7 +23,7 @@ requirements: [
   aluminum/45
 ]
 category: crafting
-research: gunmetal-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: gun-barrel/1

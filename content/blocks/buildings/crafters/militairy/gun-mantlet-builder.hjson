@@ -25,7 +25,7 @@ requirements: [
   iron/40
 ]
 category: crafting
-research: cast-iron-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: gun-mantlet/1

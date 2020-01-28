@@ -23,7 +23,7 @@ requirements: [
   aluminum/30
 ]
 category: crafting
-research: stainless-steel-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: ammo-loader/1

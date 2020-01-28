@@ -28,7 +28,7 @@ requirements: [
   zinc/50
 ]
 category: crafting
-research: palladium-forge
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: circuit-board/1

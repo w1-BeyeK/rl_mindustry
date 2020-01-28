@@ -24,7 +24,7 @@ requirements: [
   nickel/50
 ]
 category: crafting
-research: iron-forge
+research: copper-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: gunpowder/5

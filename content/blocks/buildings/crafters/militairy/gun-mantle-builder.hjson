@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: Gun Mantle Builder
-description: Builder that produces Gun Mantles.
+name: Gun Mantlet Builder
+description: Builder that produces Gun Mantlets.
 liquidCapacity: 50
 size: 2
 hasPower: true
@@ -25,4 +25,4 @@ category: crafting
 research: lead-forge
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: gun-mantle/1
+outputItem: gun-mantlet/1

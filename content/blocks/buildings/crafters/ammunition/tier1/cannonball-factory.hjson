@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Cannonball Factory
+description: Factory that produces cannonballs.
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 1
+  items: {
+    items: [
+      gunpowder/4
+	  brass/3
+    ]
+  }
+}
+requirements: [
+  brass/50
+  bronze/15
+]
+category: crafting
+research: trebuchet
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: cannonball/2

@@ -31,8 +31,8 @@ ammo: {
 	}
 }
 requirements: [
-  copper/40
-  lead/20
+  titanium/60
+  cast-iron/35
 ]
 category: turret
 research: trebuchet

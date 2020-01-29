@@ -1,14 +1,13 @@
 type:  ArtilleryTurret
 name: Trebuchet
-description: Close combat AA spray turret.
+description: Long range artillery turret.
 health: 400
-size: 2
-reload: 15
+size: 3
+reload: 30
 targetAir:false
 targetGround:true
 range: 220
-ammoUseEffect: shellEjectSmall
-inaccuracy: 20
+inaccuracy: 25
 rotatespeed: 20
 shots:1
 ammo: {

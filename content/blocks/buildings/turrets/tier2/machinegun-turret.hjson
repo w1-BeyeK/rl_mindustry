@@ -11,7 +11,7 @@ rotatespeed: 9
 ammo: {
   9mm: {
     speed: 35
-    damage: 56
+    damage: 60
     bulletWidth: 3
     bulletHeight: 6
     shootEffect: shootSmall
@@ -19,13 +19,13 @@ ammo: {
     ammoMultiplier: 1
   }
   5-56mm: {
-    speed: 10
-    damage: 50
+    speed: 30
+    damage: 85
     bulletWidth: 4
     bulletHeight: 8
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 1
+    ammoMultiplier: 2
   }
 }
 requirements: [
@@ -34,4 +34,4 @@ requirements: [
   ammo-loader/1
 ]
 category: turret
-research: trebuchet
+research: 12pounder

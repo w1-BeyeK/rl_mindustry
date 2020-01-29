@@ -1,0 +1,46 @@
+type:  ArtilleryTurret
+name: Mortar
+description: Medium range artillery turret.
+health: 500
+size: 3
+reload: 30
+targetAir:false
+targetGround:true
+range: 180
+inaccuracy: 25
+rotatespeed: 20
+shots:1
+ammo: {
+  cannonball: {
+	type: ArtilleryBulletType
+    speed: 6
+    damage: 90
+	splashDamage:40
+	splashRadius:20
+    bulletWidth: 5
+    bulletHeight: 5
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  }
+  shrapnell-cannonball: {
+	knockback: 2
+	type: ArtilleryBulletType
+    speed: 6
+    damage: 75
+	splashDamage:90
+	splashRadius:18
+    bulletWidth: 3
+    bulletHeight: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  }
+}
+requirements: [
+  copper/50
+  lead/40
+  titanium/40
+]
+category: turret
+research: trebuchet

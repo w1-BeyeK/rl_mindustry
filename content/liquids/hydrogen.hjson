@@ -2,5 +2,6 @@ name: Hydrogen
 description: Hydrogen, made of water
 temperature: 0.5
 viscosity: 0.5
+heatCapacity: 1.3
 effect: wet
 color: 9cc3b7

@@ -1,0 +1,61 @@
+type:  ArtilleryTurret
+name: Trebuchet
+description: Close combat AA spray turret.
+health: 400
+size: 2
+reload: 15
+targetAir:false
+targetGround:true
+range: 220
+ammoUseEffect: shellEjectSmall
+inaccuracy: 20
+rotatespeed: 20
+shots:1
+ammo: {
+  copper: {
+	knockback: 3
+	type: ArtilleryBulletType
+    speed: 6
+    damage: 40
+	splashDamage:20
+	splashRadius:10
+    bulletWidth: 3
+    bulletHeight: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+  lead: {
+	knockback: 4
+	type: ArtilleryBulletType
+    speed: 7
+    damage: 60
+	splashDamage:30
+	splashRadius:12
+    bulletWidth: 3
+    bulletHeight: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+   titanium: {
+	knockback: 5
+	type: ArtilleryBulletType
+    speed: 8
+    damage: 80
+	splashDamage:40
+	splashRadius:15
+    bulletWidth: 3
+    bulletHeight: 3
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+}
+requirements: [
+  copper/50
+  lead/40
+  titanium/40
+]
+category: turret
+research: ballista

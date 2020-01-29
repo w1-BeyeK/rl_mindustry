@@ -1,12 +1,11 @@
 type: ItemTurret
 name: Slingshot
 description: Slingshot turret.
-health: 450
+health: 150
 size: 1
 reload: 8
 targetAir:true
 targetGround:true
-burstSpacing:1
 range: 125
 ammoUseEffect: shellEjectSmall
 inaccuracy: 15
@@ -48,4 +47,4 @@ requirements: [
   copper/25
 ]
 category: turret
-research: copper-forge
+research: duo

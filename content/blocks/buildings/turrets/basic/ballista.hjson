@@ -1,47 +1,41 @@
-type:  BurstTurret
-name: AA Flak
-description: Close combat AA spray turret.
-health: 200
+type:  ItemTurret
+name: Ballista
+description: Longer range turret.
+health: 250
 size: 2
 reload: 10
 targetAir:true
-targetGround:false
-burstSpacing:2
+targetGround:true
 range: 160
 ammoUseEffect: shellEjectSmall
 inaccuracy: 20
 rotatespeed: 20
-shots:5
+shots:3
 ammo: {
-  flak-shell: {
-	type: FlakBulletType
-	explodeRange:10
-	knockback:5
-    speed: 8
-    damage: 80
+    copper: {
+	knockback: 0
+    speed: 5
+    damage: 40
     bulletWidth: 3
-    bulletHeight: 6
+    bulletHeight: 3
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 3
   }
-  scrap: {
-	type: FlakBulletType
-    speed: 5
-    damage: 20
-	knockback:2
-	explodeRange:15
-    bulletWidth: 2
-    bulletHeight: 4
+  lead: {
+	knockback: 0
+    speed: 6
+    damage: 60
+    bulletWidth: 3
+    bulletHeight: 3
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 2
+    ammoMultiplier: 3
   }
 }
 requirements: [
-  gun-mantlet/1
-  gun-barrel/2
-  ammo-loader/2
+  copper/40
+  lead/20
 ]
 category: turret
-research: shotgun-turret
+research: slingshot

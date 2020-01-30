@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: Cannonball Factory
 description: Factory that produces cannonballs.
-size: 3
+size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true

@@ -1,3 +1,4 @@
 type: material
 name: cannonball
 description: Ammo used in medieval guns.
+color: 63645e

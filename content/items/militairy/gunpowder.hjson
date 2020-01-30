@@ -1,3 +1,4 @@
 type: resource
 name: Gunpowder
 description: The explosive substance used in ammunition.
+color: 754c24

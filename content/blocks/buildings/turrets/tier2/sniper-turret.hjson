@@ -2,7 +2,7 @@ type: ItemTurret
 name: Sniper Turret
 description: Shoots from afar towards distanctant enemies.
 health: 200
-size: 2
+size: 3
 reload: 120
 range: 480
 ammoUseEffect: shellEjectSmall

@@ -2,7 +2,7 @@ type: DoubleTurret
 name: Missile Array
 description: Shoots from afar towards distanctant enemies.
 health: 500
-size: 2
+size: 3
 reload: 2
 range: 360
 ammoUseEffect: shellEjectSmall

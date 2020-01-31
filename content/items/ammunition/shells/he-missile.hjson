@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: he missile
 description: High explosive Missile.
 color: 0072bc

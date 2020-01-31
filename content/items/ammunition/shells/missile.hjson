@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: missile
 description: Pocet rocket.
 color: fff331

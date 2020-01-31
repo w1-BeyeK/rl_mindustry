@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: 50-cal
 description: .50 caliber bullets used in extremely heavy weaponry.
 color: 6d6d6d

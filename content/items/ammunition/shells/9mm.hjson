@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: 9mm
 description: 9mm ammunition used in heavy weaponry.
 color: f7941d

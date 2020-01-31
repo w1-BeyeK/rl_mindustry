@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: 12-gauge
 description: 12 gauge shotgun ammo.
 color: ed1c24

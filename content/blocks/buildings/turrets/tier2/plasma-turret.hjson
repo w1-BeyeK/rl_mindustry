@@ -4,9 +4,9 @@ description: Shoots plasma towards enemies.
 health: 400
 size: 2
 reload: 12
-range: 180
+range: 320
 ammoUseEffect: shellEjectSmall
-inaccuracy: 10
+inaccuracy: 5
 rotatespeed: 9
 targetAir: false
 ammo: {

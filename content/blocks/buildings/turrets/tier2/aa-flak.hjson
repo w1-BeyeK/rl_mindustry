@@ -7,11 +7,11 @@ reload: 10
 targetAir:true
 targetGround:false
 burstSpacing:2
-range: 160
+range: 480
 ammoUseEffect: shellEjectSmall
-inaccuracy: 20
-rotatespeed: 20
-shots:5
+inaccuracy: 25
+rotatespeed: 15
+shots:8
 ammo: {
   flak-shell: {
 	type: FlakBulletType
@@ -35,7 +35,7 @@ ammo: {
     bulletHeight: 4
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 2
+    ammoMultiplier: 5
   }
 }
 requirements: [

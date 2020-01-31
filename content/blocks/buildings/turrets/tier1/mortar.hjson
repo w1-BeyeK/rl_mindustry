@@ -3,11 +3,11 @@ name: Mortar
 description: Medium range artillery turret.
 health: 500
 size: 3
-reload: 30
+reload: 120
 targetAir:false
 targetGround:true
-range: 180
-inaccuracy: 25
+range: 400
+inaccuracy: 20
 rotatespeed: 20
 shots:1
 ammo: {
@@ -21,7 +21,7 @@ ammo: {
     bulletHeight: 5
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 2
+    ammoMultiplier: 1
   }
   shrapnell-cannonball: {
 	knockback: 2
@@ -34,7 +34,7 @@ ammo: {
     bulletHeight: 3
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 2
+    ammoMultiplier: 1
   }
 }
 requirements: [

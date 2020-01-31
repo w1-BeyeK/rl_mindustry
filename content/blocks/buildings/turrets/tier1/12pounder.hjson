@@ -3,31 +3,31 @@ name: 12 pounder
 description: Short to medium range turret.
 health: 750
 size: 2
-reload: 20
+reload: 60
 targetAir:false
 targetGround:true
-range: 180
-inaccuracy: 18
+range: 320
+inaccuracy: 9
 rotatespeed: 15
 shots: 1
 ammo: {
     cannonball: {
 		knockback: 3
 		speed: 12
-		damage: 100
+		damage: 90
 		bulletWidth: 5
 		bulletHeight: 5
-		ammoMultiplier: 2
+		ammoMultiplier: 1
 	}
 	shrapnell-cannonball: {
 		knockback: 1
 		speed: 7
-		damage: 60
-		splashDamage:75
+		damage: 35
+		splashDamage:70
 		splashRadius:12
 		bulletWidth: 5
 		bulletHeight: 5
-		ammoMultiplier: 2
+		ammoMultiplier: 1
 	}
 }
 requirements: [

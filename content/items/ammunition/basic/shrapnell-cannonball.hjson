@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: shrapnell-cannonball
 description: Ammo used in medieval guns.
 color: 363731

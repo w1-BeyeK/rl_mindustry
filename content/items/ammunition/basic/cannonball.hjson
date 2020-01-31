@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: cannonball
 description: Ammo used in medieval guns.
 color: 63645e

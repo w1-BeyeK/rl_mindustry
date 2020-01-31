@@ -7,7 +7,7 @@ reload: 30
 targetAir:false
 targetGround:true
 range: 220
-inaccuracy: 25
+inaccuracy: 16
 rotatespeed: 20
 shots:1
 ammo: {
@@ -15,8 +15,8 @@ ammo: {
 	knockback: 3
 	type: ArtilleryBulletType
     speed: 6
-    damage: 40
-	splashDamage:20
+    damage: 10
+	splashDamage:25
 	splashRadius:10
     bulletWidth: 3
     bulletHeight: 3
@@ -28,27 +28,27 @@ ammo: {
 	knockback: 4
 	type: ArtilleryBulletType
     speed: 7
-    damage: 60
+    damage: 25
 	splashDamage:30
 	splashRadius:12
     bulletWidth: 3
     bulletHeight: 3
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 3
+    ammoMultiplier: 2
   }
    titanium: {
 	knockback: 5
 	type: ArtilleryBulletType
     speed: 8
-    damage: 80
-	splashDamage:40
+    damage: 35
+	splashDamage:50
 	splashRadius:15
     bulletWidth: 3
     bulletHeight: 3
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 3
+    ammoMultiplier: 1
   }
 }
 requirements: [

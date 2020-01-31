@@ -1,16 +1,16 @@
 type:  BurstTurret
 name: Shotgun Turret
 description: Close combat spray turret.
-health: 200
+health: 600
 size: 2
-reload: 10
+reload: 90
 burstSpacing:2
-range: 120
+range: 320
 ammoUseEffect: shellEjectSmall
-inaccuracy: 20
+inaccuracy: 3
 rotatespeed: 20
 shots:5
-targetAir:false
+targetAir:true
 targetGround:true
 ammo: {
   12-gauge: {

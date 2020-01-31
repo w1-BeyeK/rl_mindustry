@@ -6,7 +6,7 @@ size: 3
 reload: 10
 targetAir:false
 targetGround:true
-range: 250
+range: 640
 ammoUseEffect: shellEjectSmall
 inaccuracy: 20
 rotatespeed: 20

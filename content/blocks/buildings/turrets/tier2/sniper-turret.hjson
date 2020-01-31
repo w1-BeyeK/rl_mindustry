@@ -15,8 +15,8 @@ ammo: {
 	type: BasicBulletType
     speed: 75
     damage: 150
-    bulletWidth: 3
-    bulletHeight: 6
+    bulletWidth: 12
+    bulletHeight: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 3
@@ -25,8 +25,8 @@ ammo: {
 	type: BasicBulletType
     speed: 100
     damage: 180
-    bulletWidth: 3
-    bulletHeight: 6
+    bulletWidth: 12
+    bulletHeight: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 2
@@ -35,8 +35,8 @@ ammo: {
 	type: BasicBulletType
     speed: 90
     damage: 240
-    bulletWidth: 3
-    bulletHeight: 6
+    bulletWidth: 12
+    bulletHeight: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 2
@@ -45,8 +45,8 @@ ammo: {
 	type: BasicBulletType
     speed: 120
     damage: 400
-    bulletWidth: 4
-    bulletHeight: 8
+    bulletWidth: 16
+    bulletHeight: 32
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 1

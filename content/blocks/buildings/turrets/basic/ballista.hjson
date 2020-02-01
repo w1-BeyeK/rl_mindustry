@@ -3,14 +3,16 @@ name: Ballista
 description: Longer range turret.
 health: 250
 size: 2
-reload: 10
+reload: 15
 targetAir:true
 targetGround:true
 range: 240
 ammoUseEffect: shellEjectSmall
-inaccuracy: 12
+inaccuracy: 5
 rotatespeed: 20
 shots:3
+outlineIcon:false
+solid:true
 ammo: {
     copper: {
 	knockback: 0

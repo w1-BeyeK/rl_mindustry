@@ -3,30 +3,30 @@ name: Missile Array
 description: Shoots from afar towards distanctant enemies.
 health: 500
 size: 3
-reload: 2
+reload: 20
 range: 360
 ammoUseEffect: shellEjectSmall
-inaccuracy: 10
+inaccuracy: 5
 outlineIcon:false
-rotatespeed: 9
+rotatespeed: 3
 ammo: {
   missile: {
 	type: MissileBulletType
-    speed: 45
+    speed: 15
     damage: 250
-    homingPower: 5
-	homingRange: 25
-	splashDamageRadius: 2
-	splashDamage: 100
-    ammoMultiplier: 1
+    homingPower: 25
+	homingRange: 64
+	splashDamageRadius: 24
+	splashDamage: 50
+    ammoMultiplier: 4
   }
   he-missile: {
 	type: MissileBulletType
-    speed: 45
-    damage: 150
-    homingPower: 3
-	homingRange: 15
-	splashDamageRadius: 4
+    speed: 15
+    damage: 50
+    homingPower: 12
+	homingRange: 36
+	splashDamageRadius: 64
 	splashDamage: 250
     ammoMultiplier: 1
   }

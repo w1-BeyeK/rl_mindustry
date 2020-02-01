@@ -3,11 +3,11 @@ name: AA Flak
 description: Close combat AA spray turret.
 health: 200
 size: 3
-reload: 10
+reload: 20
 targetAir:true
 targetGround:false
 burstSpacing:2
-range: 480
+range: 400
 outlineIcon:false
 ammoUseEffect: shellEjectSmall
 inaccuracy: 25
@@ -16,15 +16,15 @@ shots:8
 ammo: {
   flak-shell: {
 	type: FlakBulletType
-	explodeRange:10
+	explodeRange:8
 	knockback:5
-    speed: 8
-    damage: 80
-    bulletWidth: 3
-    bulletHeight: 6
+    speed: 9
+    damage: 50
+    bulletWidth: 16
+    bulletHeight: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 3
+    ammoMultiplier: 8
   }
   scrap: {
 	type: FlakBulletType
@@ -32,11 +32,11 @@ ammo: {
     damage: 20
 	knockback:2
 	explodeRange:15
-    bulletWidth: 2
-    bulletHeight: 4
+    bulletWidth: 11
+    bulletHeight: 11
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 4
   }
 }
 requirements: [

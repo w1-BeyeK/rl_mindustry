@@ -14,43 +14,45 @@ targetGround:true
 ammo: {
 9mm: {
 	type: BasicBulletType
-    speed: 75
-    damage: 150
+    speed: 30
+    damage: 220
     bulletWidth: 12
     bulletHeight: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 3
+    ammoMultiplier: 7
   }
   5-56mm: {
 	type: BasicBulletType
-    speed: 100
-    damage: 180
+    speed: 30
+    damage: 300
     bulletWidth: 12
     bulletHeight: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 2
+    ammoMultiplier: 6
   }
   7-62mm: {
 	type: BasicBulletType
-    speed: 90
-    damage: 240
+    speed: 30
+    damage: 400
     bulletWidth: 12
     bulletHeight: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 2
+    ammoMultiplier: 5
+	pierce: true
   }
   50-cal: {
 	type: BasicBulletType
-    speed: 120
-    damage: 400
+    speed: 45
+    damage: 750
     bulletWidth: 16
     bulletHeight: 32
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 1
+    ammoMultiplier: 3
+	pierce: true
   }
 }
 requirements: [

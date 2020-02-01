@@ -10,8 +10,8 @@ consumes: {
   power: 1
   items: {
     items: [
-      gunpowder/4
-	  brass/3
+      gunpowder/2
+	  brass/1
     ]
   }
 }

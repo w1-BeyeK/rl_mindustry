@@ -6,13 +6,13 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 30
 updateEffect: smeltsmoke
 consumes: {
   power: 0.5
   items: {
     items: [
-      raw-copper-ore/2
+      raw-copper-ore/1
     ]
   }
 }
@@ -23,4 +23,4 @@ category: crafting
 research: mechanical-drill
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: copper/1
+outputItem: copper/2

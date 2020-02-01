@@ -3,50 +3,47 @@ name: Trebuchet
 description: Long range artillery turret.
 health: 400
 size: 3
-reload: 30
+reload: 120
 targetAir:false
 targetGround:true
 range: 220
-inaccuracy: 16
+inaccuracy: 12
 outlineIcon:false
-rotatespeed: 20
+rotatespeed: 5
 shots:1
 ammo: {
   copper: {
-	knockback: 3
+    speed: 3
 	type: ArtilleryBulletType
-    speed: 6
-    damage: 10
-	splashDamage:25
-	splashRadius:10
-    bulletWidth: 3
-    bulletHeight: 3
+    damage: 25
+	splashDamage:45
+	splashRadius:40
+    bulletWidth: 12
+    bulletHeight: 12
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 3
+    ammoMultiplier: 1
   }
   lead: {
-	knockback: 4
+	speed: 3
 	type: ArtilleryBulletType
-    speed: 7
-    damage: 25
-	splashDamage:30
-	splashRadius:12
-    bulletWidth: 3
-    bulletHeight: 3
+    damage: 35
+	splashDamage:65
+	splashRadius:40
+    bulletWidth: 12
+    bulletHeight: 12
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 2
+    ammoMultiplier: 1
   }
    titanium: {
-	knockback: 5
+	speed: 3
 	type: ArtilleryBulletType
-    speed: 8
-    damage: 35
-	splashDamage:50
-	splashRadius:15
-    bulletWidth: 3
-    bulletHeight: 3
+    damage: 50
+	splashDamage:80
+	splashRadius:48
+    bulletWidth: 12
+    bulletHeight: 12
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 1

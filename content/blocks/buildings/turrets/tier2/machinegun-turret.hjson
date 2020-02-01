@@ -3,27 +3,36 @@ name: Machine Gun Turret
 description: Shoots from afar towards distanctant enemies.
 health: 500
 size: 2
-reload: 5
-range: 360
+reload: 3
+range: 280
 ammoUseEffect: shellEjectSmall
-inaccuracy: 20
-rotatespeed: 9
+inaccuracy: 12
+rotatespeed: 12
 outlineIcon:false
 ammo: {
   9mm: {
-    speed: 35
-    damage: 50
+    speed: 16
+    damage: 35
     bulletWidth: 3
     bulletHeight: 6
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 10
   }
   5-56mm: {
-    speed: 35
-    damage: 85
+    speed: 16
+    damage: 50
     bulletWidth: 4
     bulletHeight: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 7
+  }
+  7-62mm: {
+    speed: 19
+    damage: 85
+    bulletWidth: 7
+    bulletHeight: 12
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 4

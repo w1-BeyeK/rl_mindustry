@@ -6,13 +6,13 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 30
 updateEffect: smeltsmoke
 consumes: {
   power: 0.5
   items: {
     items: [
-      raw-nickel-ore/2
+      raw-nickel-ore/1
     ]
   }
 }

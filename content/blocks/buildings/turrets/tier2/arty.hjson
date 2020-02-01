@@ -1,27 +1,27 @@
 type:  ArtilleryTurret
 name: Arty
 description: Long range artillery.
-health: 200
+health: 800
 size: 4
-reload: 10
+reload: 90
 targetAir:false
 targetGround:true
-range: 640
+range: 560
 outlineIcon:false
 ammoUseEffect: shellEjectSmall
-inaccuracy: 20
+inaccuracy: 7
 rotatespeed: 20
-shots:1
+shots:3
 ammo: {
   mortar-shell: {
 	type: ArtilleryBulletType
-	knockback:5
+	knockback:8
     speed: 3
-    damage: 160
-	splashDamage:40
-	splashRadius:10
-    bulletWidth: 6
-    bulletHeight: 6
+    damage: 400
+	splashDamage:200
+	splashRadius:72
+    bulletWidth: 15
+    bulletHeight: 15
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 3

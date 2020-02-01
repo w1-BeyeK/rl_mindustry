@@ -2,7 +2,7 @@ type: ItemTurret
 name: Plasma Turret
 description: Shoots plasma towards enemies.
 health: 400
-size: 2
+size: 3
 reload: 60
 range: 240
 ammoUseEffect: shellEjectSmall

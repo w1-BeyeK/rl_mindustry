@@ -2,7 +2,7 @@ type:  ArtilleryTurret
 name: Mortar
 description: Medium range artillery turret.
 health: 500
-size: 3
+size: 2
 reload: 150
 targetAir:false
 targetGround:true

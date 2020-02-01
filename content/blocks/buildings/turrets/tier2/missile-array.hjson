@@ -6,7 +6,8 @@ size: 3
 reload: 2
 range: 360
 ammoUseEffect: shellEjectSmall
-inaccuracy: 45
+inaccuracy: 10
+outlineIcon:false
 rotatespeed: 9
 ammo: {
   missile: {

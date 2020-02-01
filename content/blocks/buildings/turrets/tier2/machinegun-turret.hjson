@@ -8,6 +8,7 @@ range: 360
 ammoUseEffect: shellEjectSmall
 inaccuracy: 20
 rotatespeed: 9
+outlineIcon:false
 ammo: {
   9mm: {
     speed: 35

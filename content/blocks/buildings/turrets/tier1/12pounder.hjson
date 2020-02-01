@@ -8,6 +8,7 @@ targetAir:false
 targetGround:true
 range: 320
 inaccuracy: 9
+outlineIcon:false
 rotatespeed: 15
 shots: 1
 ammo: {

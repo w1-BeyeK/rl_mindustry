@@ -9,6 +9,7 @@ targetGround:true
 range: 400
 inaccuracy: 20
 rotatespeed: 20
+outlineIcon:false
 shots:1
 ammo: {
   cannonball: {

@@ -3,11 +3,12 @@ name: Sniper Turret
 description: Shoots from afar towards distanctant enemies.
 health: 200
 size: 3
-reload: 120
+reload: 200
 range: 480
 ammoUseEffect: shellEjectSmall
-inaccuracy: 3
+inaccuracy: 0
 rotatespeed: 75
+outlineIcon:false
 targetAir:true
 targetGround:true
 ammo: {

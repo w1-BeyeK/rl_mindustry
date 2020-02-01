@@ -9,6 +9,7 @@ targetGround:true
 range: 125
 ammoUseEffect: shellEjectSmall
 inaccuracy: 14
+outlineIcon:false
 rotatespeed: 15
 shots:1
 ammo: {

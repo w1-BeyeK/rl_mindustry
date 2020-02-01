@@ -8,6 +8,7 @@ targetAir:true
 targetGround:false
 burstSpacing:2
 range: 480
+outlineIcon:false
 ammoUseEffect: shellEjectSmall
 inaccuracy: 25
 rotatespeed: 15

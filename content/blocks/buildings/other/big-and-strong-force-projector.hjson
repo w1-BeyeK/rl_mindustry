@@ -1,0 +1,35 @@
+name: Big And Strong Force Projector
+description: Ultimate forcefield.
+type: ForceProjector
+
+health: 3000
+
+size: 2
+requirements: [
+ cast-iron/100
+ aluminum/200
+ diamond/200
+]
+category: effect
+research:  big-force-projector
+
+hasPower:true
+consumes: {
+  power: 8
+
+   items: {
+   booster:true
+   optional:true
+    items: [
+	  raw-plutonium-ore/2
+    ]
+  }
+}
+
+radius:120
+breakage:10000
+cooldownNormal:1.75
+cooldownLiquid:1.5
+phaseRadiusBoost:40
+phaseUseTime:120
+basePowerDraw:1.4

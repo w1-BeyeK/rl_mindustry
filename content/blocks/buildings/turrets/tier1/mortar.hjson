@@ -15,6 +15,7 @@ ammo: {
   cannonball: {
 	type: ArtilleryBulletType
     speed: 4
+	collides: true
     damage: 150
     bulletWidth: 12
     bulletHeight: 12
@@ -25,6 +26,7 @@ ammo: {
   shrapnell-cannonball: {
 	type: ArtilleryBulletType
     speed: 4
+	collides: true
     damage: 75
 	splashDamage:135
 	splashRadius:48

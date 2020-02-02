@@ -8,23 +8,24 @@ targetAir:false
 targetGround:true
 range: 560
 outlineIcon:false
-ammoUseEffect: shellEjectSmall
 inaccuracy: 7
 rotatespeed: 20
 shots:3
 ammo: {
   mortar-shell: {
 	type: ArtilleryBulletType
-	knockback:8
-    speed: 3
+	knockback:3
+    speed: 4
     damage: 400
+	collides: true
 	splashDamage:200
-	splashRadius:72
-    bulletWidth: 15
-    bulletHeight: 15
+	splashRadius:999
+    bulletWidth: 18
+    bulletHeight: 18
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 3
+	hitShake: 1
   }
 }
 requirements: [

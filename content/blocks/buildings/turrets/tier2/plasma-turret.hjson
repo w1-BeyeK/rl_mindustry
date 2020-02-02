@@ -11,19 +11,19 @@ rotatespeed: 6
 targetAir: false
 ammo: {
 	nicd-battery: {
-		speed: 4
+		speed: 75
 		damage: 120
-		bulletWidth: 6
-		bulletHeight: 6
+		bulletWidth: 9
+		bulletHeight: 5
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 10
 	}
 	lipo-battery: {
-		speed: 5
+		speed: 75
 		damage: 180
 		bulletWidth: 12
-		bulletHeight: 12
+		bulletHeight: 7
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 12

@@ -19,7 +19,7 @@ ammo: {
     speed: 3
     damage: 400
 	splashDamage:200
-	splashRadius:72
+	splashDamageRadius:72
     bulletWidth: 15
     bulletHeight: 15
     shootEffect: shootSmall

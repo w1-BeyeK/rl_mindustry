@@ -19,9 +19,9 @@ ammo: {
     damage: 400
 	collides: true
 	splashDamage:200
-	splashRadius:999
-    bulletWidth: 18
-    bulletHeight: 18
+	splashDamageRadius:72
+    bulletWidth: 15
+    bulletHeight: 15
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 3

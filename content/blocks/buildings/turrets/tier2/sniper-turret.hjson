@@ -12,7 +12,7 @@ outlineIcon:false
 targetAir:true
 targetGround:true
 ammo: {
-9mm: {
+  9mm: {
 	type: BasicBulletType
     speed: 30
     damage: 220

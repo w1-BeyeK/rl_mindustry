@@ -1,5 +1,5 @@
 type:  ItemTurret
-name: 12 pounder
+name: 12pounder
 description: Short to medium range turret.
 health: 750
 size: 2
@@ -19,7 +19,7 @@ ammo: {
 		speed: 5
 		damage: 140
 		splashDamage:50
-		splashRadius:32
+		splashDamageRadius:32
 		bulletWidth: 12
 		bulletHeight: 12
 		ammoMultiplier: 2
@@ -31,7 +31,7 @@ ammo: {
 		speed: 5
 		damage: 50
 		splashDamage:140
-		splashRadius:32
+		splashDamageRadius:32
 		bulletWidth: 12
 		bulletHeight: 12
 		ammoMultiplier: 2

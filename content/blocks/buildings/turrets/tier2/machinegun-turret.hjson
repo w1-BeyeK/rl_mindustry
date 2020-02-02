@@ -29,6 +29,7 @@ ammo: {
     ammoMultiplier: 7
   }
   7-62mm: {
+	piercing: true
     speed: 19
     damage: 85
     bulletWidth: 7

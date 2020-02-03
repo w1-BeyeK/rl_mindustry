@@ -10,7 +10,7 @@ requirements: [
   iron/40 
 ]
 category: production
-research: mechanical-drill
+research: copper-forge
 
 tier:4
 drillTime:250

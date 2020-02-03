@@ -20,7 +20,7 @@ requirements: [
   bronze/15
 ]
 category: crafting
-research: trebuchet
+research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: cannonball/2

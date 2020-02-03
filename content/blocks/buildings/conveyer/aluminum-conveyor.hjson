@@ -7,4 +7,4 @@ requirements: [
 category: distribution
 speed: 0.45
 itemCapacity:60
-research: conveyor
+research: aluminum-forge

@@ -2,6 +2,8 @@ name: Big Mender
 description: Slightly better mender.
 type: MendProjector
 
+color:84f491
+
 health: 500
 
 size: 2
@@ -24,3 +26,4 @@ healpercent:14
 phaseRangeBoost:0
 phaseBoost:1
 useTime:400
+

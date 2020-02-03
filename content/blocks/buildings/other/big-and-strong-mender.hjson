@@ -2,6 +2,8 @@ name: Big And Strong Mender
 description: Surpreme mender.
 type: MendProjector
 
+color:84f491
+
 health: 1500
 
 size: 2

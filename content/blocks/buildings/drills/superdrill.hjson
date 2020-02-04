@@ -1,0 +1,27 @@
+type: Drill
+name: Super drill
+description: Super drill.
+liquidCapacity: 5
+size: 2
+hasPower: false
+hasLiquids: true
+
+requirements: [
+  diamond/200
+  stellite/30
+]
+category: production
+research: diamond-drill
+
+tier:7
+drillTime:50
+liquidBoostIntensity:1.2
+
+consumes: {
+ liquid: {
+    liquid: water
+	booster:true
+    amount: 0.1
+	optional:true
+  }
+}

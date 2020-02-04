@@ -1,0 +1,28 @@
+name: Big And Strong Mender
+description: Surpreme mender.
+type: MendProjector
+
+color:84f491
+
+health: 1500
+
+size: 2
+requirements: [
+ cast-iron/100
+ aluminum/200
+ diamond/200
+]
+category: effect
+research:  big-mender
+
+hasPower:true
+consumes: {
+  power: 6
+}
+
+reload:60
+range:200
+healpercent:25
+phaseRangeBoost:0
+phaseBoost:1
+useTime:150

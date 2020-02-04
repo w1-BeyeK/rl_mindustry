@@ -1,0 +1,29 @@
+name: Big Mender
+description: Slightly better mender.
+type: MendProjector
+
+color:84f491
+
+health: 500
+
+size: 2
+requirements: [
+ cast-iron/60
+ iron/40
+ aluminum/50
+]
+category: effect
+research:  copper-forge
+
+hasPower:true
+consumes: {
+  power: 1.5
+}
+
+reload:200
+range:150
+healpercent:14
+phaseRangeBoost:0
+phaseBoost:1
+useTime:400
+

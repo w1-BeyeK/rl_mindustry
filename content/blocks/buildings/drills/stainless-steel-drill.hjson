@@ -1,0 +1,27 @@
+type: Drill
+name: Stainless steel drill
+description: Ok drill.
+liquidCapacity: 5
+size: 2
+hasPower: false
+hasLiquids: true
+
+requirements: [
+  stainless-steel/50 
+]
+category: production
+research: aluminum-drill
+
+tier:6
+drillTime:150
+liquidBoostIntensity:1.2
+
+consumes: {
+ liquid: {
+    liquid: water
+	booster:true
+    amount: 0.1
+	optional:true
+  }
+}
+

@@ -1,0 +1,11 @@
+type:Wall
+name: Large Nickel wall
+description: Large Nickel wall
+requirements: [
+     nickel/20
+]
+health: 3400
+size:2
+category:defense
+research: nickel-wall
+

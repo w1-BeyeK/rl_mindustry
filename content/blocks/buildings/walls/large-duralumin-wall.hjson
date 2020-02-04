@@ -1,0 +1,11 @@
+type:Wall
+name: Large Duralumin wall
+description: Large Duralumin wall
+requirements: [
+     duralumin/20
+]
+health: 8800
+size:2
+category:defense
+research: duralumin-wall
+

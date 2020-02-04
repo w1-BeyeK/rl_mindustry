@@ -1,0 +1,11 @@
+type:Wall
+name: Silver wall
+description: BasicSilver wall
+requirements: [
+     silver/6
+]
+health: 1300
+size:1
+category:defense
+research: silver-forge
+

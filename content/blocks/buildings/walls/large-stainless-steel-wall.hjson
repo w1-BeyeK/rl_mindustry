@@ -1,0 +1,11 @@
+type:Wall
+name: Large Stainless-steel wall
+description: Large Stainless-steel wall
+requirements: [
+     stainless-steel/20
+]
+health: 8200
+size:2
+category:defense
+research: stainless-steel-wall
+

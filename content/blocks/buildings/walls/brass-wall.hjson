@@ -1,0 +1,11 @@
+type:Wall
+name: Brass wall
+description: BasicBrass wall
+requirements: [
+     brass/6
+]
+health: 1900
+size:1
+category:defense
+research: brass-forge
+

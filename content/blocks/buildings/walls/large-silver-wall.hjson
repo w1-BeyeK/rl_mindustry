@@ -1,0 +1,11 @@
+type:Wall
+name: Large Silver wall
+description: Large Silver wall
+requirements: [
+     silver/20
+]
+health: 4000
+size:2
+category:defense
+research: silver-wall
+

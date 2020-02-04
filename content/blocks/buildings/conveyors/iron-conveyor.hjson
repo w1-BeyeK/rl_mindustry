@@ -1,0 +1,13 @@
+type:Conveyor
+name: Iron conveyor
+description: Iron conveyor
+requirements: [
+     iron/4
+]
+health: 120
+speed:0.13
+displayedSpeed:16
+category:distribution
+itemCapacity:7
+research: iron-forge
+

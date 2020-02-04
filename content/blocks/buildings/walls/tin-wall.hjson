@@ -1,0 +1,11 @@
+type:Wall
+name: Tin wall
+description: BasicTin wall
+requirements: [
+     tin/6
+]
+health: 850
+size:1
+category:defense
+research: tin-forge
+

@@ -1,0 +1,13 @@
+type:Conveyor
+name: Nickel conveyor
+description: Nickel conveyor
+requirements: [
+     nickel/4
+]
+health: 200
+speed:0.25
+displayedSpeed:40
+category:distribution
+itemCapacity:19
+research: nickel-forge
+

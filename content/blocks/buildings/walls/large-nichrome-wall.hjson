@@ -1,0 +1,11 @@
+type:Wall
+name: Large Nichrome wall
+description: Large Nichrome wall
+requirements: [
+     nichrome/20
+]
+health: 5200
+size:2
+category:defense
+research: nichrome-wall
+

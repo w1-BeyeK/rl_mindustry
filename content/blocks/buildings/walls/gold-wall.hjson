@@ -1,0 +1,11 @@
+type:Wall
+name: Gold wall
+description: BasicGold wall
+requirements: [
+     gold/6
+]
+health: 1750
+size:1
+category:defense
+research: gold-forge
+

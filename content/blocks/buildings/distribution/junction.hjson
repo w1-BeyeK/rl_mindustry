@@ -1,0 +1,9 @@
+name: Junction
+description: Junction.
+requirements: [
+    copper/2
+]
+category: distribution
+speed: 5
+itemCapacity:24
+

@@ -1,0 +1,11 @@
+type:Wall
+name: Duralumin wall
+description: BasicDuralumin wall
+requirements: [
+     duralumin/6
+]
+health: 2500
+size:1
+category:defense
+research: duralumin-forge
+

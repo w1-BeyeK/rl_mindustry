@@ -1,0 +1,11 @@
+type:Wall
+name: Stainless-steel wall
+description: BasicStainless-steel wall
+requirements: [
+     stainless-steel/6
+]
+health: 2350
+size:1
+category:defense
+research: stainless-steel-forge
+

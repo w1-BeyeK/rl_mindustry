@@ -1,0 +1,13 @@
+type:Conveyor
+name: Stainless-steel conveyor
+description: Stainless-steel conveyor
+requirements: [
+     stainless-steel/4
+]
+health: 360
+speed:0.49
+displayedSpeed:88
+category:distribution
+itemCapacity:43
+research: stainless-steel-forge
+

@@ -1,0 +1,11 @@
+type:Wall
+name: Nickel wall
+description: BasicNickel wall
+requirements: [
+     nickel/6
+]
+health: 1150
+size:1
+category:defense
+research: nickel-forge
+

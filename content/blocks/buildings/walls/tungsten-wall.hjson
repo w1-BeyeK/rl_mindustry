@@ -1,0 +1,11 @@
+type:Wall
+name: Tungsten wall
+description: BasicTungsten wall
+requirements: [
+     tungsten/6
+]
+health: 2650
+size:1
+category:defense
+research: tungsten-forge
+

@@ -1,0 +1,13 @@
+type:Conveyor
+name: Stellite conveyor
+description: Stellite conveyor
+requirements: [
+     stellite/4
+]
+health: 420
+speed:0.58
+displayedSpeed:106
+category:distribution
+itemCapacity:52
+research: stellite-forge
+

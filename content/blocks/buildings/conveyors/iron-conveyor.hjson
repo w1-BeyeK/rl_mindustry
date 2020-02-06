@@ -2,7 +2,7 @@ type:Conveyor
 name: Iron conveyor
 description: Iron conveyor
 requirements: [
-     iron/4
+     iron/3
 ]
 health: 200
 speed:0.2

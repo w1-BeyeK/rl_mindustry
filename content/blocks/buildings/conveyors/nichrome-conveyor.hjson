@@ -2,7 +2,7 @@ type:Conveyor
 name: Nichrome conveyor
 description: Nichrome conveyor
 requirements: [
-     nichrome/4
+     nichrome/3
 ]
 health: 340
 speed:0.34

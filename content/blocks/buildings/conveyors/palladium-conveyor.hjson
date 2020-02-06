@@ -2,7 +2,7 @@ type:Conveyor
 name: Palladium conveyor
 description: Palladium conveyor
 requirements: [
-     palladium/4
+     palladium/3
 ]
 health: 420
 speed:0.42

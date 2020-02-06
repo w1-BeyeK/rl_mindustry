@@ -2,7 +2,7 @@ type:Conveyor
 name: Silver conveyor
 description: Silver conveyor
 requirements: [
-     silver/4
+     silver/3
 ]
 health: 300
 speed:0.3

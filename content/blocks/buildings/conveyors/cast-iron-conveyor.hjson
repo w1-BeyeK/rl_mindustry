@@ -2,7 +2,7 @@ type:Conveyor
 name: Cast-iron conveyor
 description: Cast-iron conveyor
 requirements: [
-     cast-iron/4
+     cast-iron/3
 ]
 health: 320
 speed:0.32

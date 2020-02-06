@@ -2,7 +2,7 @@ type:Conveyor
 name: Stellite conveyor
 description: Stellite conveyor
 requirements: [
-     stellite/4
+     stellite/3
 ]
 health: 500
 speed:0.5

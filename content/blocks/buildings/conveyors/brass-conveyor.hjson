@@ -2,7 +2,7 @@ type:Conveyor
 name: Brass conveyor
 description: Brass conveyor
 requirements: [
-     brass/4
+     brass/3
 ]
 health: 380
 speed:0.38

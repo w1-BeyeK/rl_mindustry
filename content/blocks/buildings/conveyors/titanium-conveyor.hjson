@@ -1,7 +1,7 @@
 name: Titanium conveyor
 description: Titanium conveyor
 requirements: [
-     titanium/4
+     titanium/3
 ]
 health: 160
 speed:0.16

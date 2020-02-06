@@ -22,6 +22,6 @@ idleSoundVolume: 0.5
 outputItem: lead/1
 research: copper-forge
   requirements: [
-  copper/40
+  copper/35
 ]
 

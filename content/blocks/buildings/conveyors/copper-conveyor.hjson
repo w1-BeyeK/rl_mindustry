@@ -2,7 +2,7 @@ type:Conveyor
 name: Copper conveyor
 description: Copper conveyor
 requirements: [
-     copper/4
+     copper/3
 ]
 health: 120
 speed:0.12

@@ -2,7 +2,7 @@ type:Conveyor
 name: Bronze conveyor
 description: Bronze conveyor
 requirements: [
-     bronze/4
+     bronze/3
 ]
 health: 400
 speed:0.4

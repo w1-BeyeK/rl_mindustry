@@ -2,7 +2,7 @@ type:Conveyor
 name: Gold conveyor
 description: Gold conveyor
 requirements: [
-     gold/4
+     gold/3
 ]
 health: 360
 speed:0.36

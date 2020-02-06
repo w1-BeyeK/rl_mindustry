@@ -2,7 +2,7 @@ type:Conveyor
 name: Tungsten conveyor
 description: Tungsten conveyor
 requirements: [
-     tungsten/4
+     tungsten/3
 ]
 health: 440
 speed:0.44

@@ -22,6 +22,6 @@ idleSoundVolume: 0.5
 outputItem: titanium/1
 research: lead-forge
   requirements: [
-  lead/40
+  lead/35
 ]
 

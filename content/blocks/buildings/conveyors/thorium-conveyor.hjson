@@ -2,7 +2,7 @@ type:Conveyor
 name: Thorium conveyor
 description: Thorium conveyor
 requirements: [
-     thorium/4
+     thorium/3
 ]
 health: 180
 speed:0.18

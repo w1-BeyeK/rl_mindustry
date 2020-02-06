@@ -22,6 +22,6 @@ idleSoundVolume: 0.5
 outputItem: gold/1
 research: silver-forge
   requirements: [
-  silver/40
+  silver/35
 ]
 

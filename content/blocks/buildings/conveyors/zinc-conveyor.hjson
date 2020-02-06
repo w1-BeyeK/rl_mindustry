@@ -2,7 +2,7 @@ type:Conveyor
 name: Zinc conveyor
 description: Zinc conveyor
 requirements: [
-     zinc/4
+     zinc/3
 ]
 health: 260
 speed:0.26

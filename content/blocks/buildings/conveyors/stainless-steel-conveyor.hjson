@@ -2,7 +2,7 @@ type:Conveyor
 name: Stainless-steel conveyor
 description: Stainless-steel conveyor
 requirements: [
-     stainless-steel/4
+     stainless-steel/3
 ]
 health: 460
 speed:0.46

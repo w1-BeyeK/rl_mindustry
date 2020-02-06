@@ -2,7 +2,7 @@ type:Conveyor
 name: Tin conveyor
 description: Tin conveyor
 requirements: [
-     tin/4
+     tin/3
 ]
 health: 240
 speed:0.24

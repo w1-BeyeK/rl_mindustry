@@ -2,7 +2,7 @@ type:Conveyor
 name: Duralumin conveyor
 description: Duralumin conveyor
 requirements: [
-     duralumin/4
+     duralumin/3
 ]
 health: 480
 speed:0.48

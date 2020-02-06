@@ -22,6 +22,6 @@ idleSoundVolume: 0.5
 outputItem: silver/1
 research: nickel-forge
   requirements: [
-  nickel/40
+  nickel/35
 ]
 

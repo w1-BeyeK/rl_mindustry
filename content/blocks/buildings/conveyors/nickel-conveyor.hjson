@@ -2,7 +2,7 @@ type:Conveyor
 name: Nickel conveyor
 description: Nickel conveyor
 requirements: [
-     nickel/4
+     nickel/3
 ]
 health: 280
 speed:0.28

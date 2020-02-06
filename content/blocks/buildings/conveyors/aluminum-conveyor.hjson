@@ -2,7 +2,7 @@ type:Conveyor
 name: Aluminum conveyor
 description: Aluminum conveyor
 requirements: [
-     aluminum/4
+     aluminum/3
 ]
 health: 220
 speed:0.22

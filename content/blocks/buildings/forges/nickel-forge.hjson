@@ -22,6 +22,6 @@ idleSoundVolume: 0.5
 outputItem: nickel/1
 research: zinc-forge
   requirements: [
-  zinc/40
+  zinc/35
 ]
 

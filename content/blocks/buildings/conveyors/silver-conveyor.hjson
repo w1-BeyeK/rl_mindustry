@@ -1,0 +1,13 @@
+type:Conveyor
+name: Silver conveyor
+description: Silver conveyor
+requirements: [
+     silver/4
+]
+health: 220
+speed:0.28
+displayedSpeed:46
+category:distribution
+itemCapacity:22
+research: silver-forge
+

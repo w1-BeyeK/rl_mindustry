@@ -1,0 +1,11 @@
+type:Wall
+name: Large Iron wall
+description: Large Iron wall
+requirements: [
+     iron/20
+]
+health: 1000
+size:2
+category:defense
+research: iron-wall
+

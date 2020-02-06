@@ -1,0 +1,13 @@
+type:Conveyor
+name: Brass conveyor
+description: Brass conveyor
+requirements: [
+     brass/4
+]
+health: 300
+speed:0.4
+displayedSpeed:70
+category:distribution
+itemCapacity:34
+research: brass-forge
+

@@ -1,0 +1,13 @@
+type:Conveyor
+name: Nichrome conveyor
+description: Nichrome conveyor
+requirements: [
+     nichrome/4
+]
+health: 260
+speed:0.34
+displayedSpeed:58
+category:distribution
+itemCapacity:28
+research: nichrome-forge
+

@@ -1,0 +1,11 @@
+type:Wall
+name: Large Aluminum wall
+description: Large Aluminum wall
+requirements: [
+     aluminum/20
+]
+health: 1600
+size:2
+category:defense
+research: aluminum-wall
+

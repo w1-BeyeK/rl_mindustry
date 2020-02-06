@@ -1,0 +1,13 @@
+type:Conveyor
+name: Cast-iron conveyor
+description: Cast-iron conveyor
+requirements: [
+     cast-iron/4
+]
+health: 240
+speed:0.31
+displayedSpeed:52
+category:distribution
+itemCapacity:25
+research: cast-iron-forge
+

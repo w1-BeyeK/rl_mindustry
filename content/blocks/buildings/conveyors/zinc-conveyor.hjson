@@ -1,0 +1,13 @@
+type:Conveyor
+name: Zinc conveyor
+description: Zinc conveyor
+requirements: [
+     zinc/4
+]
+health: 180
+speed:0.22
+displayedSpeed:34
+category:distribution
+itemCapacity:16
+research: zinc-forge
+

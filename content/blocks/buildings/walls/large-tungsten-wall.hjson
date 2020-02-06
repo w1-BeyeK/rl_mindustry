@@ -1,0 +1,11 @@
+type:Wall
+name: Large Tungsten wall
+description: Large Tungsten wall
+requirements: [
+     tungsten/20
+]
+health: 9400
+size:2
+category:defense
+research: tungsten-wall
+

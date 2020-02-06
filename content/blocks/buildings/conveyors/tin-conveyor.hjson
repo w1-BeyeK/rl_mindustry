@@ -1,0 +1,13 @@
+type:Conveyor
+name: Tin conveyor
+description: Tin conveyor
+requirements: [
+     tin/4
+]
+health: 160
+speed:0.19
+displayedSpeed:28
+category:distribution
+itemCapacity:13
+research: tin-forge
+

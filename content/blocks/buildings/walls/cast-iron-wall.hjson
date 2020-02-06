@@ -1,0 +1,11 @@
+type:Wall
+name: Cast-iron wall
+description: BasicCast-iron wall
+requirements: [
+     cast-iron/6
+]
+health: 1450
+size:1
+category:defense
+research: cast-iron-forge
+

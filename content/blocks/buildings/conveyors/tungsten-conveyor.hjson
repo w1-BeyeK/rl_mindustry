@@ -1,0 +1,13 @@
+type:Conveyor
+name: Tungsten conveyor
+description: Tungsten conveyor
+requirements: [
+     tungsten/4
+]
+health: 400
+speed:0.55
+displayedSpeed:100
+category:distribution
+itemCapacity:49
+research: tungsten-forge
+

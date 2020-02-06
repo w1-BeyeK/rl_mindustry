@@ -1,0 +1,11 @@
+type:Wall
+name: Zinc wall
+description: BasicZinc wall
+requirements: [
+     zinc/6
+]
+health: 1000
+size:1
+category:defense
+research: zinc-forge
+

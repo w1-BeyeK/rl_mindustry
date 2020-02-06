@@ -1,0 +1,8 @@
+name: Router
+description: Router.
+requirements: [
+    copper/3
+]
+category: distribution
+itemCapacity:3
+speed:24

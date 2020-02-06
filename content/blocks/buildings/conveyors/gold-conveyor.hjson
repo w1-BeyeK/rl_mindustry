@@ -1,0 +1,13 @@
+type:Conveyor
+name: Gold conveyor
+description: Gold conveyor
+requirements: [
+     gold/4
+]
+health: 280
+speed:0.37
+displayedSpeed:64
+category:distribution
+itemCapacity:31
+research: gold-forge
+

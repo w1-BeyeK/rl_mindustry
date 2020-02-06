@@ -1,0 +1,5 @@
+name: Distributor
+description: Distributor.
+category: distribution
+itemCapacity:5
+speed:24

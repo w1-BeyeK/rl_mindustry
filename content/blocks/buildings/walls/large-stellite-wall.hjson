@@ -1,0 +1,11 @@
+type:Wall
+name: Large Stellite wall
+description: Large Stellite wall
+requirements: [
+     stellite/20
+]
+health: 10000
+size:2
+category:defense
+research: stellite-wall
+

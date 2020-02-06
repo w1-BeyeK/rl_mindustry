@@ -1,0 +1,13 @@
+type:Conveyor
+name: Aluminum conveyor
+description: Aluminum conveyor
+requirements: [
+     aluminum/4
+]
+health: 140
+speed:0.16
+displayedSpeed:22
+category:distribution
+itemCapacity:10
+research: aluminum-forge
+

@@ -1,0 +1,11 @@
+type:Wall
+name: Iron wall
+description: BasicIron wall
+requirements: [
+     iron/6
+]
+health: 550
+size:1
+category:defense
+research: iron-forge
+

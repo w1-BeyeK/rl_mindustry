@@ -1,0 +1,13 @@
+type:Conveyor
+name: Bronze conveyor
+description: Bronze conveyor
+requirements: [
+     bronze/4
+]
+health: 320
+speed:0.43
+displayedSpeed:76
+category:distribution
+itemCapacity:37
+research: bronze-forge
+

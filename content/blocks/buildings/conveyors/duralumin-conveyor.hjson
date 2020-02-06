@@ -1,0 +1,13 @@
+type:Conveyor
+name: Duralumin conveyor
+description: Duralumin conveyor
+requirements: [
+     duralumin/4
+]
+health: 380
+speed:0.52
+displayedSpeed:94
+category:distribution
+itemCapacity:46
+research: duralumin-forge
+

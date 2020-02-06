@@ -1,0 +1,11 @@
+type:Wall
+name: Stellite wall
+description: BasicStellite wall
+requirements: [
+     stellite/6
+]
+health: 2800
+size:1
+category:defense
+research: stellite-forge
+

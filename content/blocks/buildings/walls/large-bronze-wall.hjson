@@ -1,0 +1,11 @@
+type:Wall
+name: Large Bronze wall
+description: Large Bronze wall
+requirements: [
+     bronze/20
+]
+health: 7000
+size:2
+category:defense
+research: bronze-wall
+

@@ -1,0 +1,10 @@
+name: Large Copper Wall
+description: Large Copper wall
+requirements: [
+     copper/20
+]
+health: 1000
+size:2
+category:defense
+research: copper-wall
+

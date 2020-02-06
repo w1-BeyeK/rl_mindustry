@@ -1,0 +1,10 @@
+name: Large Lead Wall
+description: Large Lead wall
+requirements: [
+     lead/20
+]
+health: 1600
+size:2
+category:defense
+research: lead-wall
+

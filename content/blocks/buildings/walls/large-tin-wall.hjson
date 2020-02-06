@@ -1,10 +1,10 @@
 type:Wall
-name: Large Tin wall
+name: Large Tin Wall
 description: Large Tin wall
 requirements: [
      tin/20
 ]
-health: 2200
+health: 4600
 size:2
 category:defense
 research: tin-wall

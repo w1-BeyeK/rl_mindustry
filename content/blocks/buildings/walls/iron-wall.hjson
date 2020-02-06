@@ -1,11 +1,12 @@
 type:Wall
-name: Iron wall
-description: BasicIron wall
+name: Iron Wall
+description: Basic Iron wall
 requirements: [
      iron/6
 ]
-health: 550
+health: 1150
 size:1
 category:defense
 research: iron-forge
+craftTime: 140
 

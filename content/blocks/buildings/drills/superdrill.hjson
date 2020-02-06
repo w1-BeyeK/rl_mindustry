@@ -11,7 +11,7 @@ requirements: [
   stellite/30
 ]
 category: production
-research: diamond-drill
+research: stellite-forge
 
 tier:7
 drillTime:50

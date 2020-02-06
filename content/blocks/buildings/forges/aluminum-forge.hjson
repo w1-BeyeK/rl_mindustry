@@ -1,28 +1,27 @@
-type: GenericSmelter
-name: Aluminum Forge
-description: Melts raw aluminum ore into aluminium.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Aluminum forge
+description: Basic Aluminum forge
+health: 460
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 80
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-aluminum-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/30
-  lead/30
-  iron/40
+power:1.1
+ items: { 
+  items: [
+  raw-aluminum-ore/1
 ]
-category: crafting
-research: iron-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: aluminum/1
+research: iron-forge
+  requirements: [
+  iron/35
+]
+

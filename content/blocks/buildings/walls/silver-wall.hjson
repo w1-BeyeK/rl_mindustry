@@ -1,11 +1,12 @@
 type:Wall
-name: Silver wall
-description: BasicSilver wall
+name: Silver Wall
+description: Basic Silver wall
 requirements: [
      silver/6
 ]
-health: 1300
+health: 1900
 size:1
 category:defense
 research: silver-forge
+craftTime: 240
 

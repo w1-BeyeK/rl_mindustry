@@ -1,11 +1,12 @@
 type:Wall
-name: Gold wall
-description: BasicGold wall
+name: Gold Wall
+description: Basic Gold wall
 requirements: [
      gold/6
 ]
-health: 1750
+health: 2350
 size:1
 category:defense
 research: gold-forge
+craftTime: 300
 

@@ -1,10 +1,10 @@
 type:Wall
-name: Large Palladium wall
+name: Large Palladium Wall
 description: Large Palladium wall
 requirements: [
      palladium/20
 ]
-health: 7600
+health: 10000
 size:2
 category:defense
 research: palladium-wall

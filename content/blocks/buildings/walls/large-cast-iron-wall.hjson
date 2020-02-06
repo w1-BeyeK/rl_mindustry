@@ -1,10 +1,10 @@
 type:Wall
-name: Large Cast-iron wall
+name: Large Cast-iron Wall
 description: Large Cast-iron wall
 requirements: [
      cast-iron/20
 ]
-health: 4600
+health: 7000
 size:2
 category:defense
 research: cast-iron-wall

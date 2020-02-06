@@ -1,11 +1,12 @@
 type:Wall
-name: Palladium wall
-description: BasicPalladium wall
+name: Palladium Wall
+description: Basic Palladium wall
 requirements: [
      palladium/6
 ]
-health: 2200
+health: 2800
 size:1
 category:defense
 research: palladium-forge
+craftTime: 360
 

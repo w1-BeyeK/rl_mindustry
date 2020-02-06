@@ -1,11 +1,12 @@
 type:Wall
-name: Nichrome wall
-description: BasicNichrome wall
+name: Nichrome Wall
+description: Basic Nichrome wall
 requirements: [
      nichrome/6
 ]
-health: 1600
+health: 2200
 size:1
 category:defense
 research: nichrome-forge
+craftTime: 280
 

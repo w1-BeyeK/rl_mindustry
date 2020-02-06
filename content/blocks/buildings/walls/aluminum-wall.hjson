@@ -1,11 +1,12 @@
 type:Wall
-name: Aluminum wall
-description: BasicAluminum wall
+name: Aluminum Wall
+description: Basic Aluminum wall
 requirements: [
      aluminum/6
 ]
-health: 700
+health: 1300
 size:1
 category:defense
 research: aluminum-forge
+craftTime: 160
 

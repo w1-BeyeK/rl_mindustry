@@ -1,30 +1,27 @@
-type: GenericSmelter
-name: Tungsten Forge
-description: Melts raw tungsten ore into tungsten bars.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Tungsten forge
+description: Basic Tungsten forge
+health: 570
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 190
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-tungsten-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/30
-  lead/30
-  thorium/40
-  titanium/40
-  aluminum/30
+power:2.2
+ items: { 
+  items: [
+  raw-tungsten-ore/1
 ]
-category: crafting
-research: thorium-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: tungsten/1
+research: palladium-forge
+  requirements: [
+  palladium/35
+]
+

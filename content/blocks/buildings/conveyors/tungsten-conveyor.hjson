@@ -4,10 +4,11 @@ description: Tungsten conveyor
 requirements: [
      tungsten/4
 ]
-health: 400
-speed:0.55
-displayedSpeed:100
+health: 440
+speed:0.44
+displayedSpeed:57.2
 category:distribution
-itemCapacity:49
+itemCapacity:38
 research: tungsten-forge
+craftTime: 180
 

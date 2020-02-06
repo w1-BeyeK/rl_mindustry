@@ -1,0 +1,14 @@
+type:Conveyor
+name: Copper conveyor
+description: Copper conveyor
+requirements: [
+     copper/4
+]
+health: 120
+speed:0.12
+displayedSpeed:15.6
+category:distribution
+itemCapacity:6
+research: copper-forge
+craftTime: 20
+

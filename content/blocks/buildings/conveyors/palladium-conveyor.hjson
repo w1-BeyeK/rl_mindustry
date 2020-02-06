@@ -4,10 +4,11 @@ description: Palladium conveyor
 requirements: [
      palladium/4
 ]
-health: 340
-speed:0.46
-displayedSpeed:82
+health: 420
+speed:0.42
+displayedSpeed:54.6
 category:distribution
-itemCapacity:40
+itemCapacity:36
 research: palladium-forge
+craftTime: 170
 

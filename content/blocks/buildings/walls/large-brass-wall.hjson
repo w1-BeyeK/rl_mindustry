@@ -1,10 +1,10 @@
 type:Wall
-name: Large Brass wall
+name: Large Brass Wall
 description: Large Brass wall
 requirements: [
      brass/20
 ]
-health: 6400
+health: 8800
 size:2
 category:defense
 research: brass-wall

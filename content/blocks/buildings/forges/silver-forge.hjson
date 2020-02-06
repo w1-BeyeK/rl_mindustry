@@ -1,28 +1,27 @@
-type: GenericSmelter
-name: Silver Forge
-description: Melts raw silver ore into silver bars.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Silver forge
+description: Basic Silver forge
+health: 500
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 120
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-silver-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/60
-  lead/45
-  aluminum/40
+power:1.5
+ items: { 
+  items: [
+  raw-silver-ore/1
 ]
-category: crafting
-research: aluminum-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: silver/1
+research: nickel-forge
+  requirements: [
+  nickel/40
+]
+

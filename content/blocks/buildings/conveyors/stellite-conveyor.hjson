@@ -4,10 +4,11 @@ description: Stellite conveyor
 requirements: [
      stellite/4
 ]
-health: 420
-speed:0.58
-displayedSpeed:106
+health: 500
+speed:0.5
+displayedSpeed:65
 category:distribution
-itemCapacity:52
+itemCapacity:44
 research: stellite-forge
+craftTime: 210
 

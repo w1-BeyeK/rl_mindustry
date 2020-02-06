@@ -4,10 +4,11 @@ description: Nickel conveyor
 requirements: [
      nickel/4
 ]
-health: 200
-speed:0.25
-displayedSpeed:40
+health: 280
+speed:0.28
+displayedSpeed:36.4
 category:distribution
-itemCapacity:19
+itemCapacity:22
 research: nickel-forge
+craftTime: 100
 

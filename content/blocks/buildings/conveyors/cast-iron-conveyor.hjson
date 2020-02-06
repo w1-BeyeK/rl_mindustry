@@ -4,10 +4,11 @@ description: Cast-iron conveyor
 requirements: [
      cast-iron/4
 ]
-health: 240
-speed:0.31
-displayedSpeed:52
+health: 320
+speed:0.32
+displayedSpeed:41.6
 category:distribution
-itemCapacity:25
+itemCapacity:26
 research: cast-iron-forge
+craftTime: 120
 

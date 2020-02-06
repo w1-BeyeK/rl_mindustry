@@ -4,10 +4,11 @@ description: Duralumin conveyor
 requirements: [
      duralumin/4
 ]
-health: 380
-speed:0.52
-displayedSpeed:94
+health: 480
+speed:0.48
+displayedSpeed:62.4
 category:distribution
-itemCapacity:46
+itemCapacity:42
 research: duralumin-forge
+craftTime: 200
 

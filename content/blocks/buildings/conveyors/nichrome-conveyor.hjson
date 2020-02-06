@@ -4,10 +4,11 @@ description: Nichrome conveyor
 requirements: [
      nichrome/4
 ]
-health: 260
+health: 340
 speed:0.34
-displayedSpeed:58
+displayedSpeed:44.2
 category:distribution
 itemCapacity:28
 research: nichrome-forge
+craftTime: 130
 

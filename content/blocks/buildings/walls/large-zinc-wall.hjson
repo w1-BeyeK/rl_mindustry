@@ -1,10 +1,10 @@
 type:Wall
-name: Large Zinc wall
+name: Large Zinc Wall
 description: Large Zinc wall
 requirements: [
      zinc/20
 ]
-health: 2800
+health: 5200
 size:2
 category:defense
 research: zinc-wall

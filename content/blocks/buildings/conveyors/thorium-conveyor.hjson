@@ -1,0 +1,14 @@
+type:Conveyor
+name: Thorium conveyor
+description: Thorium conveyor
+requirements: [
+     thorium/4
+]
+health: 180
+speed:0.18
+displayedSpeed:23.4
+category:distribution
+itemCapacity:12
+research: thorium-forge
+craftTime: 50
+

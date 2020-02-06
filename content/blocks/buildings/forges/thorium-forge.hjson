@@ -1,28 +1,27 @@
-type: GenericSmelter
-name: Thorium Forge
-description: Melts raw thorium ore into thorium.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Thorium forge
+description: Basic Thorium forge
+health: 440
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 60
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-thorium-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/60
-  lead/45
-  titanium/50
+power:0.9
+ items: { 
+  items: [
+  raw-thorium-ore/1
 ]
-category: crafting
-research: titanium-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: thorium/1
+research: titanium-forge
+  requirements: [
+  titanium/40
+]
+

@@ -1,10 +1,10 @@
 type:Wall
-name: Large Bronze wall
+name: Large Bronze Wall
 description: Large Bronze wall
 requirements: [
      bronze/20
 ]
-health: 7000
+health: 9400
 size:2
 category:defense
 research: bronze-wall

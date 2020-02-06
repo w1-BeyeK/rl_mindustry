@@ -4,10 +4,11 @@ description: Iron conveyor
 requirements: [
      iron/4
 ]
-health: 120
-speed:0.13
-displayedSpeed:16
+health: 200
+speed:0.2
+displayedSpeed:26
 category:distribution
-itemCapacity:7
+itemCapacity:14
 research: iron-forge
+craftTime: 60
 

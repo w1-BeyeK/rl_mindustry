@@ -1,11 +1,12 @@
 type:Wall
-name: Stellite wall
-description: BasicStellite wall
+name: Stellite Wall
+description: Basic Stellite wall
 requirements: [
      stellite/6
 ]
-health: 2800
+health: 3400
 size:1
 category:defense
 research: stellite-forge
+craftTime: 440
 

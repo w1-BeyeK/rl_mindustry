@@ -1,0 +1,14 @@
+type:Conveyor
+name: Lead conveyor
+description: Lead conveyor
+requirements: [
+     lead/4
+]
+health: 140
+speed:0.14
+displayedSpeed:18.2
+category:distribution
+itemCapacity:8
+research: lead-forge
+craftTime: 30
+

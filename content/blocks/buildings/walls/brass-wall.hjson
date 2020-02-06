@@ -1,11 +1,12 @@
 type:Wall
-name: Brass wall
-description: BasicBrass wall
+name: Brass Wall
+description: Basic Brass wall
 requirements: [
      brass/6
 ]
-health: 1900
+health: 2500
 size:1
 category:defense
 research: brass-forge
+craftTime: 320
 

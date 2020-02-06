@@ -4,10 +4,11 @@ description: Bronze conveyor
 requirements: [
      bronze/4
 ]
-health: 320
-speed:0.43
-displayedSpeed:76
+health: 400
+speed:0.4
+displayedSpeed:52
 category:distribution
-itemCapacity:37
+itemCapacity:34
 research: bronze-forge
+craftTime: 160
 

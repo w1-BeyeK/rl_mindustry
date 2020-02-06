@@ -4,10 +4,11 @@ description: Tin conveyor
 requirements: [
      tin/4
 ]
-health: 160
-speed:0.19
-displayedSpeed:28
+health: 240
+speed:0.24
+displayedSpeed:31.2
 category:distribution
-itemCapacity:13
+itemCapacity:18
 research: tin-forge
+craftTime: 80
 

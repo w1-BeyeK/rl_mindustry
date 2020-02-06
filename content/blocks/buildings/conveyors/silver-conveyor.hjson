@@ -4,10 +4,11 @@ description: Silver conveyor
 requirements: [
      silver/4
 ]
-health: 220
-speed:0.28
-displayedSpeed:46
+health: 300
+speed:0.3
+displayedSpeed:39
 category:distribution
-itemCapacity:22
+itemCapacity:24
 research: silver-forge
+craftTime: 110
 

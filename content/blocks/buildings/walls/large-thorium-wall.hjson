@@ -1,0 +1,10 @@
+name: Large Thorium Wall
+description: Large Thorium wall
+requirements: [
+     thorium/20
+]
+health: 2800
+size:2
+category:defense
+research: thorium-wall
+

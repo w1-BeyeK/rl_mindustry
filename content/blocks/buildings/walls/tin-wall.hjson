@@ -1,11 +1,12 @@
 type:Wall
-name: Tin wall
-description: BasicTin wall
+name: Tin Wall
+description: Basic Tin wall
 requirements: [
      tin/6
 ]
-health: 850
+health: 1450
 size:1
 category:defense
 research: tin-forge
+craftTime: 180
 

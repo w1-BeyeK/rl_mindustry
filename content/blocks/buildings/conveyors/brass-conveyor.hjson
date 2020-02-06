@@ -4,10 +4,11 @@ description: Brass conveyor
 requirements: [
      brass/4
 ]
-health: 300
-speed:0.4
-displayedSpeed:70
+health: 380
+speed:0.38
+displayedSpeed:49.4
 category:distribution
-itemCapacity:34
+itemCapacity:32
 research: brass-forge
+craftTime: 150
 

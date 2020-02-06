@@ -1,27 +1,27 @@
-type: GenericSmelter
-name: Tin Forge
-description: Melts raw tin ore into tin bars.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Tin forge
+description: Basic Tin forge
+health: 470
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 90
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-tin-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/20
-  lead/60
+power:1.2
+ items: { 
+  items: [
+  raw-tin-ore/1
 ]
-category: crafting
-research: lead-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: tin/1
+research: aluminum-forge
+  requirements: [
+  aluminum/40
+]
+

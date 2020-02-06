@@ -1,27 +1,27 @@
-type: GenericSmelter
-name: Iron Forge
-description: Melts raw iron ore into bars.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Iron forge
+description: Basic Iron forge
+health: 450
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 70
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-iron-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/40
-  lead/30
+power:1
+ items: { 
+  items: [
+  raw-iron-ore/1
 ]
-category: crafting
-research: lead-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: iron/1
+research: thorium-forge
+  requirements: [
+  thorium/40
+]
+

@@ -1,26 +1,27 @@
-type: GenericSmelter
-name: Copper Forge
-description: Melts raw copper ore into copper.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
+type:GenericSmelter
+name: Copper forge
+description: Basic Copper forge
+health: 410
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
 craftTime: 30
-updateEffect: smeltsmoke
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-copper-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/15
+power:0.6
+ items: { 
+  items: [
+  raw-copper-ore/1
 ]
-category: crafting
-research: mechanical-drill
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: copper/2
+outputItem: copper/1
+research: mechanical-drill
+  requirements: [
+  copper/40
+]
+

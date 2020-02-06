@@ -1,11 +1,12 @@
 type:Wall
-name: Duralumin wall
-description: BasicDuralumin wall
+name: Duralumin Wall
+description: Basic Duralumin wall
 requirements: [
      duralumin/6
 ]
-health: 2500
+health: 3250
 size:1
 category:defense
 research: duralumin-forge
+craftTime: 420
 

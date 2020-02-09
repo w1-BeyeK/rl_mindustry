@@ -12,7 +12,7 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      aluminum/5
+      aluminum/3
 	  copper/1
 	  magnesium/1
     ]

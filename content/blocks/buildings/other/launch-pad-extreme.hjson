@@ -1,7 +1,7 @@
 name: Launch pad extreme
 description: Super fast launch pad, for testing purposes.
 type: LaunchPad
-itemCapacity: 300
+itemCapacity: 200
 hasItems: true
 health: 1000
 consumesPower:false

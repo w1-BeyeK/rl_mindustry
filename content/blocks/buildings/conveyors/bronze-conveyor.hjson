@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:34
 research: bronze-forge
 craftTime: 160
+canOverdrive:false
 

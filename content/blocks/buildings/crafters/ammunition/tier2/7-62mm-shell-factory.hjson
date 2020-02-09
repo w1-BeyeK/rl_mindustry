@@ -19,7 +19,7 @@ consumes: {
   }
 }
 requirements: [
-  cast-iron/30
+  cast-iron/100
   stainless-steel/60
   bronze/25
 ]

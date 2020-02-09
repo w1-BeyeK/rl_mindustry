@@ -1,0 +1,21 @@
+type: SolarGenerator
+name: Big windmill
+description: Produces power from wind
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 0.75
+consumes: {
+  items: {
+    items: [
+    ]
+    optional: true
+  }
+}
+requirements: [
+  iron/50
+]
+category: power
+research: iron-forge
+canOverdrive:false

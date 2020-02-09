@@ -10,4 +10,5 @@ category:distribution
 itemCapacity:10
 research: titanium-forge
 craftTime: 40
+canOverdrive:false
 

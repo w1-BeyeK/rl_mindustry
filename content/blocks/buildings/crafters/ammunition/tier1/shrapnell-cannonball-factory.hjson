@@ -9,7 +9,7 @@ hasItems: true
 craftTime: 90
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.5
+  power: 1.5
   items: {
     items: [
       cannonball/1
@@ -19,9 +19,9 @@ consumes: {
   }
 }
 requirements: [
-  brass/70
-  bronze/35
-  titanium/20
+  iron/125
+  aluminum/80
+  titanium/60
 ]
 category: crafting
 research: cannonball-factory

@@ -19,8 +19,7 @@ consumes: {
 }
 requirements: [
   cast-iron/60
-  stainless-steel/20
-  bronze/15
+  iron/125
 ]
 category: crafting
 research: 9mm-shell-factory

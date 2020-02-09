@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:16
 research: aluminum-forge
 craftTime: 70
+canOverdrive:false
 

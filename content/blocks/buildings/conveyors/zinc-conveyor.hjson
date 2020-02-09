@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:20
 research: zinc-forge
 craftTime: 90
+canOverdrive:false
 

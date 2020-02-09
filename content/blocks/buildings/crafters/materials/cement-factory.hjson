@@ -18,8 +18,8 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  copper/100
+  lead/75
 ]
 category: crafting
 research: copper-forge

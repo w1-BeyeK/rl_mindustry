@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:26
 research: cast-iron-forge
 craftTime: 120
+canOverdrive:false
 

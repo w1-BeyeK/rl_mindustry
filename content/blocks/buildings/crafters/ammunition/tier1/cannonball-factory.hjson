@@ -11,13 +11,14 @@ consumes: {
   items: {
     items: [
       gunpowder/2
-	  brass/1
+	  iron/1
     ]
   }
 }
 requirements: [
-  brass/50
-  bronze/15
+  iron/50
+  lead/80
+  titanium/40
 ]
 category: crafting
 research: gunpowder-factory

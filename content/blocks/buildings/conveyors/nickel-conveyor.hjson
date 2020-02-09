@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:22
 research: nickel-forge
 craftTime: 100
+canOverdrive:false
 

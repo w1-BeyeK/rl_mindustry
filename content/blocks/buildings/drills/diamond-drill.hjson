@@ -7,7 +7,8 @@ hasPower: false
 hasLiquids: true
 
 requirements: [
-  diamond/100 
+  diamond/250 
+  aluminum/50
 ]
 category: production
 research: stainless-steel-drill

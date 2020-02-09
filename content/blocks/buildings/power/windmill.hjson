@@ -5,7 +5,7 @@ size: 1
 hasPower: true
 hasItems: true
 itemDuration: 30
-powerProduction: 0.75
+powerProduction: 0.5
 consumes: {
   items: {
     items: [
@@ -14,7 +14,8 @@ consumes: {
   }
 }
 requirements: [
-  copper/15
+  copper/20
 ]
 category: power
 research: copper-forge
+canOverdrive:false

@@ -6,7 +6,7 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 45
 updateEffect: smeltsmoke
 consumes: {
   power: 0.5
@@ -21,14 +21,14 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/30
+  lead/250
+  titanium/100
   nickel/50
-  aluminum/50
+  aluminum/100
   zinc/50
 ]
 category: crafting
 research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: circuit-board/1
+outputItem: circuit-board/2

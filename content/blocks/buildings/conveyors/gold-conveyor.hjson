@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:30
 research: gold-forge
 craftTime: 140
+canOverdrive:false
 

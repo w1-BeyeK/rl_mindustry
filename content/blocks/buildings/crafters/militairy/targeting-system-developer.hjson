@@ -19,11 +19,11 @@ consumes: {
   }
 }
 requirements: [
-  copper/300
-  lead/100
-  aluminum/90
-  zinc/30
-  circuit-board/10
+  lead/300
+  titanium/100
+  aluminum/150
+  zinc/80
+  circuit-board/25
 ]
 category: crafting
 research: circuit-board-factory

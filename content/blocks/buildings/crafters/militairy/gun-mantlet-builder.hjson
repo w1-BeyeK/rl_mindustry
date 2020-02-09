@@ -12,7 +12,7 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      cast-iron/3
+      cast-iron/2
 	  cement/2
     ]
   }
@@ -28,4 +28,4 @@ category: crafting
 research: gunpowder-factory
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: gun-mantlet/1
+outputItem: gun-mantlet/2

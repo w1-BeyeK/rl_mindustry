@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:40
 research: stainless-steel-forge
 craftTime: 190
+canOverdrive:false
 

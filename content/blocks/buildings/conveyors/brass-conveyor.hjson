@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:32
 research: brass-forge
 craftTime: 150
+canOverdrive:false
 

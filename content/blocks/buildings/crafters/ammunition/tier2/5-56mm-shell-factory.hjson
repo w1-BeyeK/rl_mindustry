@@ -13,12 +13,12 @@ consumes: {
   items: {
     items: [
       gunpowder/3
-	  stainless-steel/1
+	  cast-iron/1
     ]
   }
 }
 requirements: [
-   cast-iron/25
+   cast-iron/125
   stainless-steel/45
   bronze/25  
 ]

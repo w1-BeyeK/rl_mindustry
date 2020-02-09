@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:6
 research: copper-forge
 craftTime: 20
+canOverdrive:false
 

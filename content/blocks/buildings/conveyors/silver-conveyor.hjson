@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:24
 research: silver-forge
 craftTime: 110
+canOverdrive:false
 

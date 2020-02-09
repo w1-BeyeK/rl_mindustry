@@ -1,11 +1,12 @@
 type:Wall
-name: Zinc wall
-description: BasicZinc wall
+name: Zinc Wall
+description: Basic Zinc wall
 requirements: [
      zinc/6
 ]
-health: 1000
+health: 1600
 size:1
 category:defense
 research: zinc-forge
+craftTime: 200
 

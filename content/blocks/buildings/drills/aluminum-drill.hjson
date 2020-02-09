@@ -1,26 +1,26 @@
-type: Drill
+type:Drill
 name: Aluminum drill
-description: Ok drill.
+description: Aluminum drill
+health: 360
+size:2
+haspower:false
+hasLiquids:true
 liquidCapacity: 5
-size: 2
-hasPower: false
-hasLiquids: true
-
-requirements: [
-  aluminum/40 
-]
-category: production
-research: iron-drill
-
-tier:5
-drillTime:200
+craftTime: 70
+category:production
+research: aluminum-forge
+tier: 6
 liquidBoostIntensity:1.2
-
+drillTime: 200
+  requirements: [
+  aluminum/40
+]
 consumes: {
- liquid: {
-    liquid: water
-	booster:true
-    amount: 0.1
-	optional:true
-  }
+ liquid: { 
+  liquid: water
+ booster:true
+ amount: 0.1
+ optional:true
 }
+}
+

@@ -1,0 +1,10 @@
+name: Large Titanium Wall
+description: Large Titanium wall
+requirements: [
+     titanium/20
+]
+health: 2200
+size:2
+category:defense
+research: titanium-wall
+

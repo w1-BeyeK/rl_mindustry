@@ -2,12 +2,13 @@ type:Conveyor
 name: Aluminum conveyor
 description: Aluminum conveyor
 requirements: [
-     aluminum/4
+     aluminum/3
 ]
-health: 140
-speed:0.16
-displayedSpeed:22
+health: 220
+speed:0.22
+displayedSpeed:28.6
 category:distribution
-itemCapacity:10
+itemCapacity:16
 research: aluminum-forge
+craftTime: 70
 

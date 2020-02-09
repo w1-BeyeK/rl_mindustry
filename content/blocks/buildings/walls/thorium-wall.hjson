@@ -1,0 +1,11 @@
+name: Thorium Wall
+description: Basic Thorium wall
+requirements: [
+     thorium/6
+]
+health: 1000
+size:1
+category:defense
+research: thorium-forge
+craftTime: 120
+

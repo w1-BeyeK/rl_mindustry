@@ -1,10 +1,10 @@
 type:Wall
-name: Large Gold wall
+name: Large Gold Wall
 description: Large Gold wall
 requirements: [
      gold/20
 ]
-health: 5800
+health: 8200
 size:2
 category:defense
 research: gold-wall

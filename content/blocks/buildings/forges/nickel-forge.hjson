@@ -1,28 +1,27 @@
-type: GenericSmelter
-name: Nickel Forge
-description: Melts raw nickel ore into nickel bars.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Nickel forge
+description: Basic Nickel forge
+health: 490
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 110
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-nickel-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/30
-  lead/30
-  iron/60
+power:1.4
+ items: { 
+  items: [
+  raw-nickel-ore/1
 ]
-category: crafting
-research: iron-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: nickel/1
+research: zinc-forge
+  requirements: [
+  zinc/35
+]
+

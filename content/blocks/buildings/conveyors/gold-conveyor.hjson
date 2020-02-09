@@ -2,12 +2,13 @@ type:Conveyor
 name: Gold conveyor
 description: Gold conveyor
 requirements: [
-     gold/4
+     gold/3
 ]
-health: 280
-speed:0.37
-displayedSpeed:64
+health: 360
+speed:0.36
+displayedSpeed:46.8
 category:distribution
-itemCapacity:31
+itemCapacity:30
 research: gold-forge
+craftTime: 140
 

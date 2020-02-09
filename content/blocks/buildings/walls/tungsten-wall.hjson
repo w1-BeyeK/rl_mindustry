@@ -1,11 +1,12 @@
 type:Wall
-name: Tungsten wall
-description: BasicTungsten wall
+name: Tungsten Wall
+description: Basic Tungsten wall
 requirements: [
      tungsten/6
 ]
-health: 2650
+health: 2950
 size:1
 category:defense
 research: tungsten-forge
+craftTime: 380
 

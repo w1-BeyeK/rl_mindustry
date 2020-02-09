@@ -38,11 +38,13 @@ const banner = extendContent(Block, "banner", {
 
     update() {
         if (!isSet) {
+            //synced over network
             ban();
         }
     },
 
     removed(tile) {
+        // not synced over network
         tryUnban();
     }
 }

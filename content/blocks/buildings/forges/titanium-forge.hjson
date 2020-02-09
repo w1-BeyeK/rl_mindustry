@@ -1,27 +1,27 @@
-type: GenericSmelter
-name: Titanium Forge
-description: Melts raw titanium ore into titanium.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Titanium forge
+description: Basic Titanium forge
+health: 430
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 50
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-titanium-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/30
-  lead/60
+power:0.8
+ items: { 
+  items: [
+  raw-titanium-ore/1
 ]
-category: crafting
-research: lead-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: titanium/1
+research: lead-forge
+  requirements: [
+  lead/35
+]
+

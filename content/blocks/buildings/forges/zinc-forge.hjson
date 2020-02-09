@@ -1,30 +1,27 @@
-type: GenericSmelter
-name: Zinc Forge
-description: Melts raw zinc ore into zinc bars.
-liquidCapacity: 50
-size: 2
-hasPower: true
-hasLiquids: true
-hasItems: true
-craftTime: 30
-updateEffect: smeltsmoke
+type:GenericSmelter
+name: Zinc forge
+description: Basic Zinc forge
+health: 480
+size:2
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 100
+updateEffect:smeltsmoke
 consumes: {
-  power: 0.5
-  items: {
-    items: [
-      raw-zinc-ore/1
-    ]
-  }
-}
-requirements: [
-  copper/70
-  lead/40
-  titanium/40
-  nickel/40
-  aluminum/30
+power:1.3
+ items: { 
+  items: [
+  raw-zinc-ore/1
 ]
-category: crafting
-research: nickel-forge
+}
+}
+category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: zinc/1
+research: tin-forge
+  requirements: [
+  tin/35
+]
+

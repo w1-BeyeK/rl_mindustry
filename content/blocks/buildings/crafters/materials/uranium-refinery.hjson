@@ -6,13 +6,13 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 75
+craftTime: 90
 updateEffect: smeltsmoke
 consumes: {
   power: 4
   items: {
     items: [
-      raw-uranium-ore/2
+      raw-uranium-ore/3
 	  magnox/1
     ]
   }

@@ -1,0 +1,31 @@
+type:flyingUnit
+name:Winged demon
+description: Strong flyer unit
+health:650
+engineOffset:5.5
+speed:0.2
+range:300
+buildPower:0
+mass:5
+flying:true
+drag:0.01
+hitsize:20
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Gattling cannon
+	reload:10
+	bullet:	{
+			type:BasicBulletType
+			lifetime:70
+			speed:10
+			damage:3
+			hitTiles:true
+			frontColor:ff0000
+			backColor: 000000
+			homingPower:0
+			homingRange:0
+			fragBullets:0
+	}
+}

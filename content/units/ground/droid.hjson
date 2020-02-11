@@ -8,20 +8,20 @@ range:150
 buildPower:0
 minePower:0
 itemCapacity:0
-
-weapon: {
+weapon:
+{
 	name:blaster
 	reload:45
-	bullet:
-	{
-		lifetime:60
-		speed:3
-		damage:3
-		hitTiles:true
-		frontColor:0000ff
-		backColor: 00ff00
-		homingPower:0
-		homingRange:0
-		fragBullets:0
+	bullet:	{
+			type:BasicBulletType
+			lifetime:60
+			speed:3
+			damage:3
+			hitTiles:true
+			frontColor:0000ff
+			backColor: 00ff00
+			homingPower:0
+			homingRange:0
+			fragBullets:0
 	}
 }

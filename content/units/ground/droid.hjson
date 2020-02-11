@@ -1,0 +1,27 @@
+type:groundUnit
+name:Droid
+description: Basic droid unit, nothing special
+health:75
+speed:0.1
+attackLength:200
+range:150
+buildPower:0
+minePower:0
+itemCapacity:0
+
+weapon: {
+	name:blaster
+	reload:45
+	bullet:
+	{
+		lifetime:60
+		speed:3
+		damage:3
+		hitTiles:true
+		frontColor:0000ff
+		backColor: 00ff00
+		homingPower:0
+		homingRange:0
+		fragBullets:0
+	}
+}

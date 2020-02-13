@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Animal grower
+description: Quickly grows livestock.
+liquidCapacity: 50
+size: 2
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 30
+consumes: {
+  items:
+  {
+	items:
+		[
+			moss/1
+		]
+  }
+  liquid: {
+    liquid: water
+    amount: 0.2
+  }
+}
+requirements: [
+  copper/70
+  lead/70
+]
+category: crafting
+research: alien-hq
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: livestock/1
+updateEffect: steam
+hasShadow:false

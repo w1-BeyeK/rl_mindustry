@@ -1,0 +1,7 @@
+name: Biomass
+description: Biomass, used to fuel alien buidlings
+temperature: 0.5
+viscosity: 0.8
+heatCapacity: 0.3
+effect: tarred
+color: 514a1a

@@ -1,0 +1,21 @@
+type: GenericSmelter
+name: Water filter
+description: Filters water from air.
+liquidCapacity: 50
+size: 2
+hasPower: false
+hasLiquids: true
+hasItems: false
+craftTime: 30
+
+requirements: [
+  copper/20
+  lead/30
+]
+category: crafting
+research: alien-hq
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: water/9
+updateEffect: bubble
+hasShadow:false

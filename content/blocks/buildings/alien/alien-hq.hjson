@@ -1,0 +1,15 @@
+name: Alien hq
+description: Alien hq, unlocks all alien buildings
+type: Vault
+itemCapacity: 250000
+hasItems: true
+health: 30000
+consumesPower:false
+size: 3
+requirements: [
+ copper/100
+]
+research:mechanical-drill
+category: effect
+hasShadow:false
+

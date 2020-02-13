@@ -1,0 +1,6 @@
+type: material
+name: Livestock
+description: Fast bread animal
+hardness: 1
+cost: 1
+color: 4f3303

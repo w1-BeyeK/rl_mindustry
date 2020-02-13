@@ -1,0 +1,6 @@
+type: material
+name: Bio cell
+description: Main construction resource
+hardness: 1
+cost: 1
+color: 9ec6df

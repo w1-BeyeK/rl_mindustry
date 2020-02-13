@@ -1,0 +1,6 @@
+name: Bio enhancement fluid
+description: A liquid thats used to enhance aliens
+temperature: 0.2
+viscosity: 0.3
+heatCapacity: 2
+color: cb391c

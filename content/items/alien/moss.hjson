@@ -1,0 +1,6 @@
+type: material
+name: Moss
+description: Main resource for biomass
+hardness: 1
+cost: 1
+color: 1d752e

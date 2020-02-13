@@ -1,0 +1,6 @@
+name: Biotoxin
+description: Biotoxin, used to fuel alien weapons
+temperature: 0.8
+viscosity: 0.3
+heatCapacity: 0.0
+color: 9dff9f

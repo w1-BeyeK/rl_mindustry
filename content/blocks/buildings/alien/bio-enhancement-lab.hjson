@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Bio enhancement lab
+description: Creates enhancment fluids
+liquidCapacity: 50
+size: 2
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  items:
+  {
+	items:
+		[
+			raw-iron-ore/3
+		]
+  }
+  liquid: {
+    liquid: biomass
+    amount: 0.25
+  }
+}
+requirements: [
+	bio-cell/1200
+  
+]
+category: crafting
+research: biomass-lab
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: bio-enhancement-fluid/2
+updateEffect: smoke
+hasShadow:false

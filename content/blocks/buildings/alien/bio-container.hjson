@@ -1,0 +1,14 @@
+type: LiquidTank
+name: Bio container
+description: Stores liquid for later use.
+liquidCapacity: 500
+size: 2
+hasPower: false
+hasLiquids: true
+hasItems: false
+requirements: [
+  bio-cell/250
+]
+category: liquid
+research: biomass-lab
+hasShadow:false

@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Biotoxin lab
+description: Creates toxins, used for warfare
+liquidCapacity: 50
+size: 2
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  items:
+  {
+	items:
+		[
+			raw-silver-ore/2
+		]
+  }
+  liquid: {
+    liquid: biomass
+    amount: 0.3
+  }
+}
+requirements: [
+	bio-cell/1750
+  
+]
+category: crafting
+research: biomass-lab
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: biotoxin/3
+updateEffect: ripple
+hasShadow:false

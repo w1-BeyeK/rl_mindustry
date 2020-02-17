@@ -1,7 +1,7 @@
 type: LiquidTank
 name: Bio container
 description: Stores liquid for later use.
-liquidCapacity: 500
+liquidCapacity: 1000
 size: 2
 hasPower: false
 hasLiquids: true

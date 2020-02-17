@@ -1,0 +1,13 @@
+type:Wall
+name: Large bio organic wall
+description: Relatively large and strong  wall
+requirements: [
+     bio-cell/15
+	 moss/15
+]
+health: 1300
+size:2
+category:defense
+research: bio-organic-wall
+craftTime: 60
+

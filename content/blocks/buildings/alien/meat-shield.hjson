@@ -1,0 +1,14 @@
+type:Wall
+name: Meat shield
+description: Strongest bio organic  wall
+requirements: [
+     bio-cell/20
+	 moss/20
+	 livestock/20
+]
+health: 2500
+size:2
+category:defense
+research: living-wall
+craftTime: 75
+

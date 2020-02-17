@@ -1,0 +1,14 @@
+type:Wall
+name: Living wall
+description: Pretty strong  wall
+requirements: [
+     bio-cell/6
+	 moss/6
+	 livestock/6
+]
+health: 1000
+size:1
+category:defense
+research: cell-extractor
+craftTime: 60
+

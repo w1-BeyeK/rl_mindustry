@@ -1,0 +1,12 @@
+type:Wall
+name: Strong muscle wall
+description: Muscular  wall
+requirements: [
+     bio-cell/25
+]
+health: 900
+size:2
+category:defense
+research: muscle-wall
+craftTime: 45
+

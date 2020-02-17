@@ -1,0 +1,12 @@
+type:Wall
+name: Large soft tissue wall
+description: Larger  wall
+requirements: [
+     moss/15
+]
+health: 500
+size:2
+category:defense
+research: soft-tissue-wall
+craftTime: 30
+

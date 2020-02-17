@@ -1,0 +1,13 @@
+type:Wall
+name: Bio organic wall
+description: Relatively strong  wall
+requirements: [
+     bio-cell/6
+	 moss/6
+]
+health: 1000
+size:1
+category:defense
+research: cell-extractor
+craftTime: 45
+

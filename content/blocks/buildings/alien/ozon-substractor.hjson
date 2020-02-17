@@ -1,0 +1,35 @@
+name: Ozon substractor
+description: Ultimate forcefield.
+type: ForceProjector
+
+health: 3000
+
+size: 2
+requirements: [
+ bio-cell/3000
+]
+category: effect
+research:  bio-enhancement-lab
+
+hasPower:false
+consumes: {
+ liquid: {
+    liquid: bio-enhancement-fluid
+	 amount: 0.05
+  }
+   items: {
+   booster:true
+   optional:true
+    items: [
+	  raw-plutonium-ore/2
+    ]
+  }
+}
+
+radius:10
+breakage:5000
+cooldownNormal:1.75
+cooldownLiquid:1.5
+phaseRadiusBoost:120
+phaseUseTime:120
+basePowerDraw:0

@@ -1,0 +1,14 @@
+type:Conveyor
+name: Bio conveyor
+description: Bio conveyor
+requirements: [
+     bio-cell/5
+]
+health: 220
+speed:0.32
+displayedSpeed:28.6
+category:distribution
+itemCapacity:20
+research: cell-extractor
+craftTime: 45
+canOverdrive:true

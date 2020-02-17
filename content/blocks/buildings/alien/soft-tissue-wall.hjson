@@ -1,0 +1,12 @@
+type:Wall
+name: Soft tissue wall
+description: Basic  wall
+requirements: [
+     moss/6
+]
+health: 250
+size:1
+category:defense
+research: moss-harvester
+craftTime: 15
+

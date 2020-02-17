@@ -1,0 +1,29 @@
+name: Sunglight converger
+description: Bio overdrive projector.
+type: OverdriveProjector
+
+health: 3000
+
+size: 2
+requirements: [
+ bio-cell/2500
+]
+category: effect
+research:  bio-enhancement-lab
+
+hasPower:false
+consumes: {
+ liquid: {
+    liquid: bio-enhancement-fluid
+	booster:true
+    amount: 0.1
+	optional:true
+  }
+}
+
+reload:40
+range:25
+speedBoost:4
+speedBoostPhase:0
+phaseRangeBoost:0
+useTime:150

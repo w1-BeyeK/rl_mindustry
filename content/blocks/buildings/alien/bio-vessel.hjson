@@ -1,0 +1,14 @@
+type:Conduit
+name: Bio vessel
+description: Bio vessel
+requirements: [
+     bio-cell/10
+]
+health: 300
+liquidCapacity:25
+liquidPressure:2
+research: cell-extractor
+craftTime: 30
+canOverdrive:true
+category:liquid
+

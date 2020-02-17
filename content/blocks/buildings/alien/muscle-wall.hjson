@@ -1,0 +1,12 @@
+type:Wall
+name: Muscle wall
+description: Muscular  wall
+requirements: [
+     bio-cell/6
+]
+health: 600
+size:1
+category:defense
+research: cell-extractor
+craftTime: 20
+

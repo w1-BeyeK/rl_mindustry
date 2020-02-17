@@ -1,0 +1,19 @@
+type: UnitFactory
+name: Firefly pod
+description: Makes healer fireflies
+unitType: firefly
+size: 2
+produceTime: 30
+maxSpawn: 10
+consumes: {
+  items: {
+    items: [
+      bio-cell/3
+    ]
+  }
+}
+category: units
+research: cell-extractor
+requirements: [
+  bio-cell/350
+]

@@ -1,6 +1,6 @@
 type: GenericSmelter
-name: Biomass lab
-description: Dissolves organic material into biomass and bio cells
+name: Cell extractor
+description: Dissolves biomass into bio cells
 liquidCapacity: 50
 size: 2
 hasPower: false
@@ -8,29 +8,21 @@ hasLiquids: true
 hasItems: true
 craftTime: 30
 consumes: {
-  items:
-  {
-	items:
-		[
-			moss/1
-			livestock/1
-		]
-  }
   liquid: {
-    liquid: water
-    amount: 0.25
+    liquid: biomass
+    amount: 0.18
   }
 }
 requirements: [
   copper/70
-  lead/30
-  titanium/90
+  lead/50
+  titanium/50
   
 ]
 category: crafting
-research: animal-grower
+research: biomass-lab
 idleSound: respawning
 idleSoundVolume: 0.5
-outputLiquid: biomass/10
+outputItem: bio-cell/2
 updateEffect: steam
 hasShadow:false

@@ -1,0 +1,13 @@
+type:LiquidRouter
+name: Bio brancher
+description: Bio brancher
+requirements: [
+     bio-cell/5
+]
+health: 150
+category:liquid
+itemCapacity:50
+research: bio-vessel
+craftTime: 45
+canOverdrive:true
+

@@ -1,0 +1,43 @@
+type: LiquidTurret
+name: Bio toxin thrower
+description: Spits a stream of bio toxins.
+health: 1500
+size: 2
+reload: 2
+liquidCapacity:50
+hasLiquids:true
+hasItems:false
+targetAir:false
+targetGround:true
+range: 225
+inaccuracy: 0
+outlineIcon:false
+rotatespeed: 25
+shots:1
+shootEffect: shootLiquid
+shootSound:splash
+ammo: {
+  biomass: {
+    damage: 2
+	type:LiquidBulletType
+	liquid:biomass
+	status:tarred
+  }
+   biotoxin: {
+    damage: 4
+	type:LiquidBulletType
+	status:melting
+	liquid:biotoxin
+  }
+   water: {
+  type:LiquidBulletType
+    damage: 1
+	status:wet
+	liquid:water
+  }
+}
+requirements: [
+  bio-cell/500
+]
+category: turret
+research: bio-oozer

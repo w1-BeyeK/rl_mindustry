@@ -1,0 +1,40 @@
+type: LiquidTurret
+name: Bio oozer
+description: Spits a stream of ooze.
+health: 750
+size: 2
+liquidCapacity:50
+hasLiquids:true
+hasItems:false
+reload: 2
+shootCone:50
+targetAir:false
+targetGround:true
+range: 175
+inaccuracy: 4
+recoil:0
+outlineIcon:false
+rotatespeed: 15
+shots:1
+shootEffect: shootLiquid
+shootSound:splash
+
+ammo: {
+  biomass: {
+  type:LiquidBulletType
+    damage: 2
+	status:tarred
+	liquid:biomass
+  }
+   water: {
+  type:LiquidBulletType
+    damage: 1
+	status:wet
+	liquid:water
+  }
+}
+requirements: [
+  bio-cell/250
+]
+category: turret
+research: moss-thrower

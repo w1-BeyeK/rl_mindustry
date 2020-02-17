@@ -1,0 +1,43 @@
+type: LiquidTurret
+name: Bio splatter cannon
+description: Ultimate liquid cannon.
+health: 3000
+size: 3
+reload: 2
+liquidCapacity:50
+hasLiquids:true
+hasItems:false
+targetAir:true
+targetGround:true
+range: 250
+inaccuracy: 0
+outlineIcon:false
+rotatespeed: 25
+shots:2
+shootEffect: shootLiquid
+shootSound:splash
+ammo: {
+  biomass: {
+    damage: 4
+	type:LiquidBulletType
+	status:tarred
+	liquid:biomass
+  }
+   biotoxin: {
+    damage: 8
+	type:LiquidBulletType
+	status:melting
+	liquid:biotoxin
+  }
+   water: {
+  type:LiquidBulletType
+    damage: 3
+	status:wet
+	liquid:water
+  }
+}
+requirements: [
+  bio-cell/500
+]
+category: turret
+research: bio-oozer

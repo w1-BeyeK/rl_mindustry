@@ -1,0 +1,43 @@
+type: ItemTurret
+name: Bio spitter
+description: Throws moss.... duh.
+health: 250
+size: 2
+reload: 30
+liquidCapacity:50
+targetAir:true
+targetGround:true
+range: 175
+ammoUseEffect: shellEjectSmall
+inaccuracy: 4
+outlineIcon:false
+rotatespeed: 15
+shots:2
+ammo: {
+  moss: {
+    speed: 2
+    damage: 25
+	lifetime:200
+    bulletWidth: 5
+    bulletHeight: 7
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  } 
+
+   bio-cell: {
+    speed: 4
+    damage: 45
+	lifetime:200
+    bulletWidth: 5
+    bulletHeight: 7
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  } 
+}
+requirements: [
+  bio-cell/250
+]
+category: turret
+research: moss-thrower

@@ -1,0 +1,31 @@
+type: ItemTurret
+name: Moss thrower
+description: Throws moss.... duh.
+health: 150
+size: 1
+reload: 30
+targetAir:true
+targetGround:true
+range: 125
+ammoUseEffect: shellEjectSmall
+inaccuracy: 8
+outlineIcon:false
+rotatespeed: 15
+shots:1
+ammo: {
+  moss: {
+    speed: 2
+    damage: 25
+	lifetime:200
+    bulletWidth: 5
+    bulletHeight: 7
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  } 
+}
+requirements: [
+  bio-cell/100
+]
+category: turret
+research: biomass-lab

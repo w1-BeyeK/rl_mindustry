@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Gene lab
+description: Creates liquefied dna
+liquidCapacity: 50
+size: 2
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  items:
+  {
+	items:
+		[
+			raw-gold-ore/2
+		]
+  }
+  liquid: {
+    liquid: biomass
+    amount: 0.4
+  }
+}
+requirements: [
+	bio-cell/2500
+  
+]
+category: crafting
+research: bio-enhancement-lab
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: liquefied-dna/2
+updateEffect: ripple
+hasShadow:false

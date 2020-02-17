@@ -31,7 +31,7 @@ category: crafting
 research: animal-grower
 idleSound: respawning
 idleSoundVolume: 0.5
-outputLiquid: biomass/2
-outputItem: bio-cell/4
+outputLiquid: biomass/10
+outputItem: bio-cell/2
 updateEffect: steam
 hasShadow:false

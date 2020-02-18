@@ -15,7 +15,7 @@ itemCapacity:0
 weapon:
 {
 	name:Gattling cannon
-	reload:10
+	reload:1
 	bullet:	{
 			type:BasicBulletType
 			lifetime:70
@@ -24,8 +24,8 @@ weapon:
 			hitTiles:true
 			frontColor:ff0000
 			backColor: 000000
-			homingPower:0
-			homingRange:0
+			homingPower:7
+			homingRange:120
 			fragBullets:0
 	}
 }

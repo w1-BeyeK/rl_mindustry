@@ -1,7 +1,7 @@
 type:groundUnit
 name:Droid
 description: Basic droid unit, nothing special
-health:75
+health: 225
 speed:0.1
 attackLength:200
 range:150
@@ -16,7 +16,7 @@ weapon:
 			type:BasicBulletType
 			lifetime:60
 			speed:3
-			damage:3
+			damage:15
 			hitTiles:true
 			frontColor:0000ff
 			backColor: 00ff00

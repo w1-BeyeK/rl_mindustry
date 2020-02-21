@@ -10,7 +10,7 @@ minePower:0
 itemCapacity:0
 weapon:
 {
-	name:blaster
+	name:chainsaw
 	reload:45
 	bullet:	{
 			type:BasicBulletType
@@ -18,8 +18,8 @@ weapon:
 			speed:3
 			damage:15
 			hitTiles:true
-			frontColor:0000ff
-			backColor: 00ff00
+			frontColor:ffff00
+			backColor: ffffd8
 			homingPower:0
 			homingRange:0
 			fragBullets:0

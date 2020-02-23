@@ -6,21 +6,27 @@ engineOffset:5.5
 speed:0.2
 range:150
 buildPower:0
-mass:10
+mass:3
+targetAir:true
+targetGround:true
 flying:true
 drag:0.03
-hitsize:15
+hitsize:20
 minePower:0
 itemCapacity:0
+shootCone: 30
 weapon:
 {
 	name:Spewer
+	inaccuracy:0
 	reload:15
 	bullet:	{
 			type:BasicBulletType
 			lifetime:120
 			speed:6
-			damage:15
+			damage:30
+			bulletWidth:6
+			bulletHeight:6
 			hitTiles:true
 			frontColor:00ffff
 			backColor: 00ffff

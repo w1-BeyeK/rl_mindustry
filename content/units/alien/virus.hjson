@@ -1,20 +1,24 @@
 type:flyingUnit
 name:Virus
 description: Airborne virus cell, strong in large numbers
-health:35
+health:50
 engineOffset:5.5
 speed:0.3
 range:64
 buildPower:0
-mass:10
+targetAir:true
+targetGround:true
+mass:1.5
 flying:true
 drag:0.02
-hitsize:15
+hitsize:20
 minePower:0
 itemCapacity:0
+shootCone: 20
 weapon:
 {
 	name:Spitter
+	inaccuracy:0
 	reload:15
 	bullet:	{
 			type:BasicBulletType

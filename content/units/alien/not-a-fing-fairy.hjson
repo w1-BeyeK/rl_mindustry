@@ -4,6 +4,7 @@ description: Looks like your fairy godmother, but evil
 health:900
 engineOffset:5.5
 speed:0.2
+baseRotateSpeed:0.02
 range:300
 buildPower:0
 mass:20
@@ -15,23 +16,27 @@ itemCapacity:0
 weapon:
 {
 	name:Fairywand
-	reload:75
+	inaccuracy:0
+	reload:45
 	bullet:	{
-			type:BasicBulletType
 			lifetime:300
 			speed:6
 			damage:80
+			bulletWidth:8
+			bulletHeight:8
 			hitTiles:true
 			frontColor:ffff00
 			backColor: ffff00
 			homingPower:12
+			splashDamge:60
+		    splashDamageRadius:10
 			homingRange:50
-			fragBullets:1
+			fragBullets:5
 			fragBullet:
 			{
 				lifetime:15
 				speed:6		
-				damage:40	
+				damage:20	
 				knockback:2
 				bulletWidth:5
 				bulletHeight:10

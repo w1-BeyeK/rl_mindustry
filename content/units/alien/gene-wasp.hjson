@@ -6,25 +6,31 @@ engineOffset:5.5
 speed:0.2
 range:96
 buildPower:0
-mass:10
+mass:6
+targetAir:true
+targetGround:true
 flying:true
 drag:0.01
 hitsize:15
 minePower:0
+shootCone: 30
 itemCapacity:0
 weapon:
 {
 	name:Stinger
+	inaccuracy:0
 	reload:30
 	bullet:	{
 			type:BasicBulletType
-			lifetime:120
+			lifetime:200
 			speed:4
-			damage:6
+			bulletWidth:6
+			bulletHeight:12
+			damage:10
 			hitTiles:true
 			frontColor:ffffff
 			backColor: ffffff
-			homingPower:1
+			homingPower:3
 			homingRange:75
 			fragBullets:0
 	}

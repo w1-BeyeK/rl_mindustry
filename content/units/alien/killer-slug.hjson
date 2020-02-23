@@ -2,9 +2,9 @@ type:groundUnit
 name:Killer slug
 description: Slow, touch and deadly, when it touches you, you die
 health:3500
-speed:0.025
-attackLength:50
-range:16
+speed:0.05
+attackLength:1
+range:1
 mass:50
 buildPower:0
 minePower:0
@@ -12,13 +12,13 @@ itemCapacity:0
 weapon:
 {
 	name:Slimebite
+	inaccuracy:0
 	reload:60
 	alternate:true
 	bullet:	{
-			type:BasicBulletType
 			damage:5000
 			hitTiles:true
-			lifetime:500
+			lifetime:10
 			killShooter:true
 			speed:2
 			frontColor:ff0000

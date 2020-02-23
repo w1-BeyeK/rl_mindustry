@@ -1,0 +1,31 @@
+type:flyingUnit
+name:Gene wasp
+description: Genetically engineered wasp, stings
+health:300
+engineOffset:5.5
+speed:0.2
+range:96
+buildPower:0
+mass:10
+flying:true
+drag:0.01
+hitsize:15
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Stinger
+	reload:30
+	bullet:	{
+			type:BasicBulletType
+			lifetime:120
+			speed:4
+			damage:6
+			hitTiles:true
+			frontColor:ffffff
+			backColor: ffffff
+			homingPower:1
+			homingRange:75
+			fragBullets:0
+	}
+}

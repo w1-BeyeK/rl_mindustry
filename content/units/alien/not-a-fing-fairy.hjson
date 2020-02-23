@@ -1,0 +1,44 @@
+type:flyingUnit
+name:Not a f-ing fairy
+description: Looks like your fairy godmother, but evil
+health:900
+engineOffset:5.5
+speed:0.2
+range:300
+buildPower:0
+mass:20
+flying:true
+drag:0.01
+hitsize:20
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Fairywand
+	reload:75
+	bullet:	{
+			type:BasicBulletType
+			lifetime:300
+			speed:6
+			damage:80
+			hitTiles:true
+			frontColor:ffff00
+			backColor: ffff00
+			homingPower:12
+			homingRange:50
+			fragBullets:1
+			fragBullet:
+			{
+				lifetime:15
+				speed:6		
+				damage:40	
+				knockback:2
+				bulletWidth:5
+				bulletHeight:10
+				frontColor:ffff00
+				backColor:ffff00
+				splashDamge:20
+				splashDamageRadius:5
+			}
+	}
+}

@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Infestor pod
+description: Makes infestors
+unitType: infestor
+size: 2
+produceTime: 60
+maxSpawn: 4
+consumes: {
+  items: {
+    items: [
+      bio-cell/15
+    ]
+  }
+   liquid: {
+    liquid: biomass
+    amount: 0.2
+  }
+}
+category: units
+research: cell-extractor
+requirements: [
+  bio-cell/350
+]

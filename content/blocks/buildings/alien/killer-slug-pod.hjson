@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Killer slug pod
+description: Makes killer slugs
+unitType: killer-slug
+size: 2
+produceTime: 150
+maxSpawn: 2
+consumes: {
+  items: {
+    items: [
+      bio-cell/350
+    ]
+  }
+   liquid: {
+    liquid: bio-enhancement-fluid
+    amount: 0.1
+  }
+}
+category: units
+research: bio-enhancement-lab
+requirements: [
+  bio-cell/1000
+]

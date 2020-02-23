@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Beetlejuice sac
+description: Makes beetlejuice builders
+unitType: beetlejuice
+size: 2
+produceTime: 120
+maxSpawn: 2
+consumes: {
+  items: {
+    items: [
+      bio-cell/200
+    ]
+  }
+   liquid: {
+    liquid: biomass
+    amount: 0.2
+  }
+}
+category: units
+research: biomass-lab
+requirements: [
+  bio-cell/600
+]

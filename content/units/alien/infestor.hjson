@@ -1,0 +1,29 @@
+type:groundUnit
+name:Infestor
+description: Toxic shooter
+health:300
+speed:0.05
+attackLength:200
+range:225
+mass:5
+buildPower:0
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Toxin blaster
+	reload:75
+	alternate:true
+	bullet:	{
+			type:BasicBulletType
+			damage:90
+			hitTiles:true
+			lifetime:100
+			speed:4
+			frontColor:00ff00
+			backColor: 00ff00
+			homingPower:0
+			homingRange:0
+			fragBullets:0
+	}
+}

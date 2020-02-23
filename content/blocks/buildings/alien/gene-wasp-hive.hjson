@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Gene wasp hive
+description: Houses gene wasps
+unitType: gene-wasp
+size: 2
+produceTime: 30
+maxSpawn: 8
+consumes: {
+  items: {
+    items: [
+      bio-cell/5
+    ]
+  }
+   liquid: {
+    liquid: liquefied-dna
+    amount: 0.05
+  }
+}
+category: units
+research: gene-lab
+requirements: [
+  bio-cell/150
+]

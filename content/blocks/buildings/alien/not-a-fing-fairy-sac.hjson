@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Not a fing fairy sac
+description: Doesn't make fairies.... it really doesn't
+unitType: not-a-fing-fairy
+size: 3
+produceTime: 200
+maxSpawn: 2
+consumes: {
+  items: {
+    items: [
+      bio-cell/150
+    ]
+  }
+   liquid: {
+    liquid: bio-enhancement-fluid
+    amount: 0.1
+  }
+}
+category: units
+research: bio-enhancement-lab
+requirements: [
+  bio-cell/1500
+]

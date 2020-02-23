@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Bio enhanced butterfly sac
+description: Makes badass butterflies
+unitType: bio-enhanced-butterfly
+size: 2
+produceTime: 150
+maxSpawn: 3
+consumes: {
+  items: {
+    items: [
+      bio-cell/50
+    ]
+  }
+   liquid: {
+    liquid: bio-enhancement-fluid
+    amount: 0.1
+  }
+}
+category: units
+research: bio-enhancement-lab
+requirements: [
+  bio-cell/600
+]

@@ -1,0 +1,23 @@
+type:builderDrone
+name:Beetlejuice
+description: Basic builder unit
+health:500
+speed:0.7
+attackLength:1
+range:100
+mass:5
+flying:true
+drag:0.01
+hitsize:20
+buildPower:0
+minePower:0
+itemCapacity:100
+weapon:
+{
+	name:Builder
+	reload:20
+	alternate:true
+	bullet:	{
+			type:HealBulletType
+	}
+}

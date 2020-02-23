@@ -1,0 +1,29 @@
+type:groundUnit
+name:Bionic warrior
+description: Close range tough warrior unit
+health:750
+speed:0.05
+attackLength:50
+range:30
+mass:25
+buildPower:0
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Sludgethrower
+	reload:60
+	alternate:true
+	bullet:	{
+			type:BasicBulletType
+			damage:35
+			hitTiles:true
+			lifetime:50
+			speed:2
+			frontColor:0000ff
+			backColor: 0000ff
+			homingPower:0
+			homingRange:0
+			fragBullets:0
+	}
+}

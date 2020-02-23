@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Viral infector
+description: Makes virus cells
+unitType: virus
+size: 2
+produceTime: 20
+maxSpawn: 15
+consumes: {
+  items: {
+    items: [
+      bio-cell/20
+    ]
+  }
+   liquid: {
+    liquid: biomass
+    amount: 0.05
+  }
+}
+category: units
+research: cell-extractor
+requirements: [
+  bio-cell/250
+]

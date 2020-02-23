@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Amoeba pod
+description: Makes suicidal amoebas
+unitType: suicidal-amoeba
+size: 2
+produceTime: 75
+maxSpawn: 4
+consumes: {
+  items: {
+    items: [
+      bio-cell/60
+    ]
+  }
+   liquid: {
+    liquid: biomass
+    amount: 0.10
+  }
+}
+category: units
+research: cell-extractor
+requirements: [
+  bio-cell/350
+]

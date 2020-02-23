@@ -1,0 +1,31 @@
+type:flyingUnit
+name:Virus
+description: Airborne virus cell, strong in large numbers
+health:35
+engineOffset:5.5
+speed:0.3
+range:64
+buildPower:0
+mass:10
+flying:true
+drag:0.02
+hitsize:15
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Spitter
+	reload:15
+	bullet:	{
+			type:BasicBulletType
+			lifetime:120
+			speed:6
+			damage:1
+			hitTiles:true
+			frontColor:00ff00
+			backColor: 00ff00
+			homingPower:7
+			homingRange:50
+			fragBullets:0
+	}
+}

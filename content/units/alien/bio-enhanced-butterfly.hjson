@@ -1,0 +1,31 @@
+type:flyingUnit
+name:Bio enhanced butterfly
+description: Weaponized butterfly..... cute but mean
+health:650
+engineOffset:5.5
+speed:0.2
+range:150
+buildPower:0
+mass:10
+flying:true
+drag:0.03
+hitsize:15
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Spewer
+	reload:15
+	bullet:	{
+			type:BasicBulletType
+			lifetime:120
+			speed:6
+			damage:15
+			hitTiles:true
+			frontColor:00ffff
+			backColor: 00ffff
+			homingPower:7
+			homingRange:50
+			fragBullets:0
+	}
+}

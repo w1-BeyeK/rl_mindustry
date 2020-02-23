@@ -1,0 +1,30 @@
+type:groundUnit
+name:Suicidal amoeba
+description: Kills itself to cause some serious damage
+health:750
+speed:0.15
+attackLength:50
+range:8
+mass:25
+buildPower:0
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:Bionicboom
+	reload:60
+	alternate:true
+	bullet:	{
+			type:BasicBulletType
+			damage:150
+			hitTiles:true
+			lifetime:50
+			speed:2
+			killShooter:true
+			frontColor:0000ff
+			backColor: 0000ff
+			homingPower:0
+			homingRange:0
+			fragBullets:0
+	}
+}

@@ -1,0 +1,23 @@
+type: UnitFactory
+name: Bionic warrior pod
+description: Makes bionic warriors
+unitType: bionic-warrior
+size: 2
+produceTime: 75
+maxSpawn: 5
+consumes: {
+  items: {
+    items: [
+      bio-cell/10
+    ]
+  }
+   liquid: {
+    liquid: biomass
+    amount: 0.15
+  }
+}
+category: units
+research: cell-extractor
+requirements: [
+  bio-cell/250
+]

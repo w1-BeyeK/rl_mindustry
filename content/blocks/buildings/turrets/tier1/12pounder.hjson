@@ -7,6 +7,7 @@ reload: 90
 targetAir:false
 targetGround:true
 range: 240
+craftTime: 60
 inaccuracy: 5
 outlineIcon:false
 rotatespeed: 8

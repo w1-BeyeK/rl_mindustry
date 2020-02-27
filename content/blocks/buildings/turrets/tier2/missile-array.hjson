@@ -5,6 +5,7 @@ health: 500
 size: 3
 reload: 20
 range: 360
+craftTime: 300
 ammoUseEffect: shellEjectSmall
 inaccuracy: 5
 outlineIcon:false

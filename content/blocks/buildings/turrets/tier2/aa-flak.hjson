@@ -6,6 +6,7 @@ size: 3
 reload: 20
 targetAir:true
 targetGround:false
+craftTime: 300
 burstSpacing:2
 range: 400
 outlineIcon:false

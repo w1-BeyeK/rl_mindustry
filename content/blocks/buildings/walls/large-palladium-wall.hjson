@@ -8,4 +8,5 @@ health: 10000
 size:2
 category:defense
 research: palladium-wall
+craftTime: 440
 

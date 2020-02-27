@@ -8,4 +8,5 @@ health: 8800
 size:2
 category:defense
 research: brass-wall
+craftTime: 390
 

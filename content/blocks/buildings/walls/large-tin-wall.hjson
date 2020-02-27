@@ -8,4 +8,5 @@ health: 4600
 size:2
 category:defense
 research: tin-wall
+craftTime: 215
 

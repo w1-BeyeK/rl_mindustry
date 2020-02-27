@@ -8,4 +8,5 @@ health: 4000
 size:2
 category:defense
 research: aluminum-wall
+craftTime: 190
 

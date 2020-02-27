@@ -8,4 +8,5 @@ health: 3400
 size:2
 category:defense
 research: iron-wall
+craftTime: 165
 

@@ -8,4 +8,5 @@ health: 5200
 size:2
 category:defense
 research: zinc-wall
+craftTime: 240
 

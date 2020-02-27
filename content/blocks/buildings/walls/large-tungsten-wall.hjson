@@ -8,4 +8,5 @@ health: 10600
 size:2
 category:defense
 research: tungsten-wall
+craftTime: 465
 

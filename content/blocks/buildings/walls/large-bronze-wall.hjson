@@ -8,4 +8,5 @@ health: 9400
 size:2
 category:defense
 research: bronze-wall
+craftTime: 415
 

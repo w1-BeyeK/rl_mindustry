@@ -8,4 +8,5 @@ health: 5800
 size:2
 category:defense
 research: nickel-wall
+craftTime: 265
 

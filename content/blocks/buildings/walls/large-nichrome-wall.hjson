@@ -8,4 +8,5 @@ health: 7600
 size:2
 category:defense
 research: nichrome-wall
+craftTime: 340
 

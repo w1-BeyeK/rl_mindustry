@@ -8,4 +8,5 @@ health: 12400
 size:2
 category:defense
 research: stellite-wall
+craftTime: 540
 

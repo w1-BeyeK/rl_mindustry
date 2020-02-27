@@ -8,4 +8,5 @@ health: 8200
 size:2
 category:defense
 research: gold-wall
+craftTime: 365
 

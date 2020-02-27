@@ -6,13 +6,13 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 90
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.5
+  power: 4
   items: {
     items: [
-      raw-uranium-ore/1
+      raw-uranium-ore/3
 	  magnox/1
     ]
   }
@@ -21,10 +21,10 @@ requirements: [
   cast-iron/60
   stainless-steel/80
   duralumin/70
-  magnox/100
+  magnox/150
 ]
 category: crafting
 research: magnox-forge
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: uranium-cell/1
+outputItem: uranium-cell/2

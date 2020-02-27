@@ -12,7 +12,7 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      cobalt/4
+      cobalt/3
 	  chromium/2
 	  tungsten/1
 	  nickel/1

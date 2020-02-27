@@ -6,7 +6,7 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
   power: 3 
@@ -21,4 +21,4 @@ category: crafting
 research: hydrogen-distiller
 idleSound: respawning
 idleSoundVolume: 0.5
-outputLiquid: liquid-nitrogen/1
+outputLiquid: liquid-nitrogen/15

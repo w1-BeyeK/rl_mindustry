@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:28
 research: nichrome-forge
 craftTime: 130
+canOverdrive:false
 

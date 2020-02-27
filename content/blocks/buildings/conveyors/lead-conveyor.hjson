@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:8
 research: lead-forge
 craftTime: 30
+canOverdrive:false
 

@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:38
 research: tungsten-forge
 craftTime: 180
+canOverdrive:false
 

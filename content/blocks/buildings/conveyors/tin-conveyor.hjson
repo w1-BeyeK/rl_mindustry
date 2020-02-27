@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:18
 research: tin-forge
 craftTime: 80
+canOverdrive:false
 

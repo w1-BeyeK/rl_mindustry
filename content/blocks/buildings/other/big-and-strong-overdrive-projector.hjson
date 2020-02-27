@@ -6,9 +6,9 @@ health: 3000
 
 size: 2
 requirements: [
- cast-iron/100
- aluminum/200
- diamond/200
+ cast-iron/250
+ aluminum/300
+ diamond/500
 ]
 category: effect
 research:  big-overdrive-projector
@@ -19,8 +19,8 @@ consumes: {
 }
 
 reload:40
-range:200
-speedBoost:5
+range:150
+speedBoost:3
 speedBoostPhase:0
 phaseRangeBoost:0
 useTime:150

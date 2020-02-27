@@ -1,0 +1,16 @@
+type: Battery
+name: Huge battery
+description: Stores a lot of power
+size: 3
+
+requirements: [
+  nickel/100
+  aluminum/200
+  lithium/500
+]
+category: power
+research: nickel-forge
+health:3000
+consumes: {
+		powerBuffered: 200000.0
+	}

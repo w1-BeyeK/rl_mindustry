@@ -1,0 +1,12 @@
+type: PowerNode
+name: Aluminum powernode
+description: Small node with decent range
+size: 1
+
+requirements: [
+  aluminum/40
+]
+laserRange:15
+maxNodes:20
+category: power
+research: aluminum-forge

@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:36
 research: palladium-forge
 craftTime: 170
+canOverdrive:false
 

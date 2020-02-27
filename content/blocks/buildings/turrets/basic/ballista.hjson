@@ -10,13 +10,13 @@ range: 200
 ammoUseEffect: shellEjectSmall
 inaccuracy: 5
 rotatespeed: 20
-shots:3
+shots:2
 outlineIcon:false
 solid:true
 ammo: {
   copper: {
-    speed: 5
-    damage: 70
+    speed: 4
+    damage: 45
     bulletWidth: 8
     bulletHeight: 10
     shootEffect: shootSmall
@@ -24,8 +24,8 @@ ammo: {
     ammoMultiplier: 2
   }
   lead: {
-    speed: 6
-    damage: 80
+    speed: 5
+    damage: 55
     bulletWidth: 8
     bulletHeight: 10
     shootEffect: shootSmall
@@ -34,8 +34,8 @@ ammo: {
   }
 }
 requirements: [
-  copper/40
-  lead/20
+  copper/120
+  lead/70
 ]
 category: turret
 research: slingshot

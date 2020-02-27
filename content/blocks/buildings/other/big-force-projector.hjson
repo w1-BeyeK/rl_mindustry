@@ -32,4 +32,4 @@ cooldownNormal:1.75
 cooldownLiquid:1.5
 phaseRadiusBoost:20
 phaseUseTime:120
-basePowerDraw:0.8
+basePowerDraw:1.2

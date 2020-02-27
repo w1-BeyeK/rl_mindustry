@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:12
 research: thorium-forge
 craftTime: 50
+canOverdrive:false
 

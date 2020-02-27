@@ -6,7 +6,7 @@ size:2
 haspower:true
 hasLiquids:false
 hasItems:true
-craftTime: 180
+craftTime: 100
 updateEffect:smeltsmoke
 consumes: {
 power:2.1

@@ -1,0 +1,21 @@
+type: SolarGenerator
+name: Wind turbine
+description: Produces a lot of power from wind
+size: 3
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 1.8
+consumes: {
+  items: {
+    items: [
+    ]
+    optional: true
+  }
+}
+requirements: [
+  aluminum/80
+]
+category: power
+research: aluminum-forge
+canOverdrive:false

@@ -1,0 +1,27 @@
+type:groundUnit
+name:Droid
+description: Basic droid unit, nothing special
+health: 225
+speed:0.1
+attackLength:200
+range:150
+buildPower:0
+minePower:0
+itemCapacity:0
+weapon:
+{
+	name:chainsaw
+	reload:45
+	bullet:	{
+			type:BasicBulletType
+			lifetime:60
+			speed:3
+			damage:15
+			hitTiles:true
+			frontColor:ffff00
+			backColor: ffffd8
+			homingPower:0
+			homingRange:0
+			fragBullets:0
+	}
+}

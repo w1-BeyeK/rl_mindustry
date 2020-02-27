@@ -6,10 +6,10 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 30
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.5
+  power: 2.5
   items: {
     items: [
       lithium/2
@@ -22,10 +22,9 @@ consumes: {
   }
 }
 requirements: [
-  aluminum/50
-  nichrome/40
-  iron/40
-  silver/10
+  aluminum/75
+  nichrome/60
+  iron/100
 ]
 category: crafting
 research: battery-factory

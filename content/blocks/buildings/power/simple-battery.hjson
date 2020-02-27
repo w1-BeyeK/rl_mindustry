@@ -1,0 +1,16 @@
+type: Battery
+name: Simple battery
+description: Stores power
+size: 2
+
+requirements: [
+  iron/40
+  aluminum/20
+  lithium/100
+]
+category: power
+research: aluminum-forge
+health:300
+consumes: {
+		powerBuffered: 75000.0
+	}

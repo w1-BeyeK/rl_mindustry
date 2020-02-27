@@ -9,7 +9,7 @@ hasItems: true
 craftTime: 90
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.5
+  power: 2
   items: {
     items: [
       gunpowder/4
@@ -20,12 +20,12 @@ consumes: {
   }
 }
 requirements: [
-   cast-iron/80
-  stainless-steel/80
+   cast-iron/180
+  stainless-steel/120
   bronze/50
 ]
 category: crafting
 research: 7-62mm-shell-factory
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: 50-cal/1
+outputItem: 50-cal/2

@@ -1,0 +1,12 @@
+type: PowerNode
+name: Nichrome powernode
+description: Big node with large range
+size: 2
+
+requirements: [
+  nichrome/80
+]
+laserRange:25
+maxNodes:20
+category: power
+research: nichrome-forge

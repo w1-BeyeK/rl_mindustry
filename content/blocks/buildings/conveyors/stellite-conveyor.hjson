@@ -11,4 +11,5 @@ category:distribution
 itemCapacity:44
 research: stellite-forge
 craftTime: 210
+canOverdrive:false
 

@@ -6,7 +6,7 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 30
 updateEffect: smeltsmoke
 consumes: {
   power: 0.5
@@ -19,13 +19,12 @@ consumes: {
   }
 }
 requirements: [
-  aluminum/30
-  nichrome/20
-  iron/10
-  silver/5
+  aluminum/50
+  nichrome/40
+  iron/80
 ]
 category: crafting
 research: nickel-forge
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: nicd-battery/1
+outputItem: nicd-battery/2

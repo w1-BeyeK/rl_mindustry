@@ -1,0 +1,15 @@
+name: Super Vault
+description: Large vault.
+type: Vault
+itemCapacity: 250000
+hasItems: true
+health: 10000
+consumesPower:false
+size: 3
+requirements: [
+ gold/500
+ silver/750
+ palladium/250
+]
+category: effect
+research:  copper-forge

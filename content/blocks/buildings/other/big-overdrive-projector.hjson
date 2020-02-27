@@ -6,9 +6,9 @@ health: 1000
 
 size: 2
 requirements: [
- cast-iron/60
- iron/40
- aluminum/50
+ cast-iron/80
+ iron/100
+ aluminum/100
 ]
 category: effect
 research:  copper-forge
@@ -19,8 +19,8 @@ consumes: {
 }
 
 reload:60
-range:150
-speedBoost:3
+range:125
+speedBoost:2
 speedBoostPhase:0
 phaseRangeBoost:0
 useTime:400

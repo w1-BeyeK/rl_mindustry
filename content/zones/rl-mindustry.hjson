@@ -1,12 +1,12 @@
 name: RL Mindustry
 description: RL Mindustry map that covers all major resources
-loadout: core-huge
+loadout: core-start
 startingItems: [
   copper/1000
   lead/500
 ]
 conditionWave: 15
-launchPeriod: 15
+launchPeriod: 10
 requirements: [
   {
     type: ZoneWave

@@ -6,21 +6,21 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 15
+craftTime: 45
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.5
+  power: 1.2
   items: {
     items: [
-      gunpowder/3
-	  brass/1
+      gunpowder/2
+	  iron/2
     ]
   }
 }
 requirements: [
-   cast-iron/20
-  stainless-steel/20
-  bronze/20
+   cast-iron/40
+  aluminum/120
+  iron/80
 ]
 category: crafting
 research: gunpowder-factory

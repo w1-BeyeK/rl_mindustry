@@ -1,0 +1,30 @@
+type: NuclearReactor
+name: Uranium reactor
+description: Produces power from uranium cells
+size: 4
+hasItems: true
+hasLiquids:true
+hasPower:true
+powerProduction: 120
+heating:0.2
+liquidCapacity:1000
+consumes: {
+  items: {
+    items: [
+		uranium-cell/3
+    ]
+  }
+  liquid: {
+			liquid: liquid-nitrogen
+			amount:0.14
+		}
+}
+requirements: [
+  magnox/200
+  stainless-steel/150
+  duralumin/100
+  stellite/75
+]
+category: power
+research: uranium-refinery
+canOverdrive:true

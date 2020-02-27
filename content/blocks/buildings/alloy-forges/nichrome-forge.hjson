@@ -12,7 +12,7 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      nickel/4
+      nickel/2
 	  chromium/1
     ]
   }

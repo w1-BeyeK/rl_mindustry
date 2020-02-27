@@ -27,9 +27,9 @@ consumes: {
 }
 
 radius:120
-breakage:10000
+breakage:5000
 cooldownNormal:1.75
 cooldownLiquid:1.5
 phaseRadiusBoost:40
 phaseUseTime:120
-basePowerDraw:1.4
+basePowerDraw:2

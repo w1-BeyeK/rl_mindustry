@@ -4,7 +4,7 @@ description: Bigger distributor.
 category: distribution
 itemCapacity:5
 size:3
-speed:24
+speed:36
 research:iron-forge
 requirements: [
     iron/4

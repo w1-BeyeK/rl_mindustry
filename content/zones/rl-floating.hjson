@@ -1,20 +1,20 @@
-name: RL Mindustry
-description: RL Mindustry map that covers all major resources
+name: RL Floating
+description: RL Mindustry map, Floating ice rock with 2 spawnpoints
 loadout: core-start
 startingItems: [
-  copper/1000
-  lead/500
+  copper/1500
+  lead/1000
 ]
 conditionWave: 15
 launchPeriod: 10
 requirements: [
   {
     type: ZoneWave
-    zone: groundZero
-    wave: 1
+    zone: rl-mindustry
+    wave: 20
   }
 ]
-  
+
 resources: [
   copper
   lead

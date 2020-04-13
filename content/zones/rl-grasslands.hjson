@@ -1,0 +1,42 @@
+name: RL Grasslands
+description: RL Mindustry map, Grasslands are areas where the vegetation is dominated by grass. To bad I can not add bunnies.... Has 4 spawnpoints.
+loadout: core-start
+startingItems: [
+  copper/1500
+  lead/1000
+]
+conditionWave: 15
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: rl-floating
+    wave: 25
+  }
+]
+
+resources: [
+  copper
+  lead
+  titanium
+  thorium
+  aluminum
+  cadmium
+  calcium
+  cesium
+  chromium
+  cobalt
+  galium
+  gold
+  iron
+  lithium
+  magnesium
+  nickel
+  palladium
+  silver
+  sodium
+  tin
+  tungsten
+  zinc
+  diamond
+]

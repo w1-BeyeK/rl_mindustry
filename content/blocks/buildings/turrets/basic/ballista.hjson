@@ -36,7 +36,7 @@ ammo: {
 }
 requirements: [
   copper/120
-  lead/70
+  lead/80
 ]
 category: turret
 research: slingshot

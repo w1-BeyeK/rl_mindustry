@@ -39,8 +39,10 @@ ammo: {
   }
 }
 requirements: [
-  titanium/80
-  cast-iron/50
+	titanium/100
+	thorium/ 100
+	carbon/ 100
+	cast-iron/50
 ]
 category: turret
 research: 12pounder

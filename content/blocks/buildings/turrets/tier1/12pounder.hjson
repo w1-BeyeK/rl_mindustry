@@ -39,8 +39,10 @@ ammo: {
 	}
 }
 requirements: [
-  titanium/60
-  cast-iron/35
+	titanium/100
+	thorium/ 100
+	carbon/ 100
+	cast-iron/30
 ]
 category: turret
 research: trebuchet

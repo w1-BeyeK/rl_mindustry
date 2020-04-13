@@ -31,9 +31,14 @@ ammo: {
 	}
 }
 requirements: [
-  gun-mantlet/1
-  gun-barrel/1
-  ammo-loader/1
+copper/200
+	lead/200
+	titanium/150
+	thorium/ 150
+	gun-mantlet/15
+	gun-barrel/15
+	ammo-loader/15
+  	targeting-system/15
 ]
 category: turret
 research: sniper-turret

@@ -41,9 +41,13 @@ ammo: {
   }
 }
 requirements: [
-  gun-mantlet/1
-  gun-barrel/1
-  ammo-loader/1
+	copper/150
+	lead/150
+	titanium/100
+	thorium/ 100
+	gun-mantlet/10
+	gun-barrel/10
+	ammo-loader/10
 ]
 category: turret
 research: 12pounder

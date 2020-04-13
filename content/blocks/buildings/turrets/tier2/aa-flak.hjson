@@ -6,7 +6,7 @@ size: 3
 reload: 20
 targetAir:true
 targetGround:false
-craftTime: 300
+
 burstSpacing:2
 range: 400
 outlineIcon:false
@@ -21,6 +21,7 @@ ammo: {
 	knockback:5
     speed: 9
     damage: 50
+	lifetime: 100
     bulletWidth: 16
     bulletHeight: 24
     shootEffect: shootSmall
@@ -31,6 +32,7 @@ ammo: {
 	type: FlakBulletType
     speed: 5
     damage: 20
+	lifetime: 80
 	knockback:2
 	explodeRange:15
     bulletWidth: 11
@@ -41,9 +43,14 @@ ammo: {
   }
 }
 requirements: [
-  gun-mantlet/1
-  gun-barrel/2
-  ammo-loader/2
+	copper/150
+	lead/150
+	titanium/100
+	thorium/ 100
+	gun-mantlet/20
+	gun-barrel/20
+	ammo-loader/20
+  	targeting-system/20
 ]
 category: turret
 research: shotgun-turret

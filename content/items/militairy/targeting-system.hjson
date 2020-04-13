@@ -2,3 +2,4 @@ type: material
 name: Targeting System
 description: Targetting systems that target enemies up to a great deal of range.
 color: ddf5ff
+cost: 10 

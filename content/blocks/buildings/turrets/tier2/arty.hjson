@@ -4,11 +4,10 @@ description: Long range artillery.
 health: 800
 size: 4
 reload: 90
-targetAir:false
-targetGround:true
+targetAir: false
+targetGround: true
 range: 560
-craftTime: 420
-outlineIcon:false
+outlineIcon: false
 inaccuracy: 7
 rotatespeed: 20
 shots:3
@@ -30,10 +29,14 @@ ammo: {
   }
 }
 requirements: [
-  gun-mantlet/1
-  gun-barrel/1
-  ammo-loader/1
-  targeting-system/1
+  	copper/200
+	lead/200
+	titanium/150
+	thorium/ 150
+	gun-mantlet/25
+	gun-barrel/25
+	ammo-loader/25
+  	targeting-system/20
 ]
 category: turret
 research: missile-array

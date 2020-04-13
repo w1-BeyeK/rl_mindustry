@@ -37,9 +37,13 @@ scrap: {
   }
 }
 requirements: [
-  gun-mantlet/1
-  gun-barrel/2
-  ammo-loader/1  
+  copper/150
+	lead/150
+	titanium/100
+	thorium/ 100
+	gun-mantlet/10
+	gun-barrel/20
+	ammo-loader/10
 ]
 category: turret
 research:12pounder

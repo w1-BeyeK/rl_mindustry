@@ -2,4 +2,4 @@ type: material
 name: Ammo Loader
 description: Ammo loader used for reloading weapons.
 color: 959595
-
+cost: 10 

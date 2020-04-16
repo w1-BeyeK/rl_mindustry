@@ -12,9 +12,9 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      circuit-board/1
-	  metaglass/1
-	  cesium/2
+      circuit-board/2
+	  metaglass/2
+	  cesium/8
     ]
   }
 }
@@ -29,4 +29,4 @@ category: crafting
 research: circuit-board-factory
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: targeting-system/1
+outputItem: targeting-system/2

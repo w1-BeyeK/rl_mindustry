@@ -6,5 +6,5 @@ author: "[red]Hellfire_NL (Content),
 [blue]Verty (Testing)"
 description: "This mod contains all kinds of new resources, forges, materials and liquids.
 It is still under development so feedback on the workshop is welcome"
-version: "1.5"
-minGameVersion: "103"
+version: "2.0"
+minGameVersion: "105"

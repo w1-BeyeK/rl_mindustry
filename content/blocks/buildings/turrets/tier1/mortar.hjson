@@ -1,4 +1,4 @@
-type:  ArtilleryTurret
+type:  ItemTurret
 name: Mortar
 description: Medium range artillery turret.
 health: 500

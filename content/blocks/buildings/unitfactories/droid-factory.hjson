@@ -1,4 +1,4 @@
-type: UnitFactory
+type: groundFactory
 name: Droid Factory
 description: Makes droids
 unitType: droid

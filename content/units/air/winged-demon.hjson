@@ -1,4 +1,4 @@
-type:flyingUnit
+type:flying
 name:Winged demon
 description: Strong flyer unit
 health:650

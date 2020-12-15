@@ -1,4 +1,4 @@
-type: UnitFactory
+type: airFactory
 name: Winged Demon Factory
 description: Makes winged demons
 unitType: winged-demon

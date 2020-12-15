@@ -8,7 +8,6 @@ targetAir:true
 targetGround:true
 range: 125
 craftTime: 120
-ammoUseEffect: shellEjectSmall
 inaccuracy: 8
 outlineIcon:false
 rotatespeed: 15

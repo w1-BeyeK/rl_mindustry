@@ -1,4 +1,4 @@
-type:groundUnit
+type: mech
 name:Droid
 description: Basic droid unit, nothing special
 health: 225

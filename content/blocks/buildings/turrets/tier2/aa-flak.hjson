@@ -1,4 +1,4 @@
-type:  BurstTurret
+type:  ItemTurret
 name: AA Flak
 description: Close combat AA spray turret.
 health: 200
@@ -10,7 +10,6 @@ targetGround:false
 burstSpacing:2
 range: 400
 outlineIcon:false
-ammoUseEffect: shellEjectSmall
 inaccuracy: 25
 rotatespeed: 15
 shots:8

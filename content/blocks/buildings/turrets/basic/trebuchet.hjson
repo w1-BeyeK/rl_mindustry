@@ -1,4 +1,4 @@
-type:  ArtilleryTurret
+type:  ItemTurret
 name: Trebuchet
 description: Long range artillery turret.
 health: 400

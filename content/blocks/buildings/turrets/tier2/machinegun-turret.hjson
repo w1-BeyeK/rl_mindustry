@@ -1,4 +1,4 @@
-type: DoubleTurret
+type: ItemTurret
 name: Machine Gun Turret
 description: Shoots from afar towards distanctant enemies.
 health: 500
@@ -6,7 +6,6 @@ size: 2
 reload: 3
 range: 280
 craftTime: 120
-ammoUseEffect: shellEjectSmall
 inaccuracy: 12
 rotatespeed: 12
 outlineIcon:false

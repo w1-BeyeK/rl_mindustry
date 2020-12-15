@@ -1,4 +1,4 @@
-type:  ArtilleryTurret
+type:  ItemTurret
 name: Arty
 description: Long range artillery.
 health: 800

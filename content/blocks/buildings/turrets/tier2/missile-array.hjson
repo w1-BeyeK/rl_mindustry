@@ -1,4 +1,4 @@
-type: DoubleTurret
+type: ItemTurret
 name: Missile Array
 description: Shoots from afar towards distanctant enemies.
 health: 500
@@ -6,7 +6,6 @@ size: 3
 reload: 20
 range: 360
 craftTime: 300
-ammoUseEffect: shellEjectSmall
 inaccuracy: 5
 outlineIcon:false
 rotatespeed: 3

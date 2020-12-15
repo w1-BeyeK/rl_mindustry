@@ -1,9 +1,9 @@
-type:  ItemTurret
+type: ItemTurret
 name: Ballista
 description: Longer range turret.
 health: 250
 size: 2
-reload: 90
+reloadTime: 90
 targetAir:true
 targetGround:true
 range: 200
@@ -13,12 +13,12 @@ rotatespeed: 20
 shots:2
 outlineIcon:false
 solid:true
-ammo: {
+ammoTypes: {
   copper: {
     speed: 4
     damage: 45
-    bulletWidth: 8
-    bulletHeight: 10
+    width: 8
+    height: 10
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 2
@@ -26,8 +26,8 @@ ammo: {
   lead: {
     speed: 5
     damage: 55
-    bulletWidth: 8
-    bulletHeight: 10
+    width: 8
+    height: 10
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 2

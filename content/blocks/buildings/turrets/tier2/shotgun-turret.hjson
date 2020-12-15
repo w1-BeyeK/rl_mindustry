@@ -3,7 +3,7 @@ name: Shotgun Turret
 description: Close combat spray turret.
 health: 600
 size: 2
-reload: 90
+reloadTime: 90
 range: 200
 craftTime: 90
 inaccuracy: 7
@@ -12,14 +12,14 @@ rotatespeed: 12
 shots:5
 targetAir:false
 targetGround:true
-ammo: {
+ammoTypes: {
 scrap: {
     speed: 5
     damage: 20
 	knockback:2
 	explodeRange:15
-    bulletWidth: 2
-    bulletHeight: 4
+    width: 2
+    height: 4
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 2
@@ -28,8 +28,8 @@ scrap: {
 	knockback:3
     speed: 8
     damage: 40
-    bulletWidth: 3
-    bulletHeight: 6
+    width: 3
+    height: 6
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 3

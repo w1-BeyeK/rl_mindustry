@@ -1,21 +1,32 @@
-type: airFactory
+type: UnitFactory
 name: Winged Demon Factory
 description: Makes winged demons
-unitType: winged-demon
+unitType: flying
 size: 3
 produceTime: 650
-maxSpawn: 3
+maxSpawn: 6
+
 consumes: {
-  power: 2.6
-  items: {
-    items: [
-      aluminum/25
-      copper/40
-    ]
-  }
+  power: 2.2
 }
+
+plans: [
+{ 
+	unit: winged-demon
+    	requirements: [
+     	 		 aluminum/25
+  				titanium/15
+  				copper/40
+    ] 
+    time: 500
+  }
+]
+
+
+
+
 category: units
-research: aluminum-forge
+research: air-factory
 requirements: [
   aluminum/130
   titanium/80

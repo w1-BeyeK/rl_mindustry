@@ -1,22 +1,29 @@
-type: groundFactory
+type: UnitFactory
 name: Droid Factory
-description: Makes droids
-unitType: droid
+description: Makes ground droids
+unitType: ground
 size: 3
 produceTime: 250
 maxSpawn: 10
+
 consumes: {
-  power: 1.9
-  items: {
-    items: [
-      iron/10
-      titanium/10
-      lead/10
-    ]
-  }
+  power: 2.2
 }
+
+plans: [
+{ 
+	unit: droid
+    	requirements: [
+     	 	iron/10
+      		titanium/10
+      		lead/10
+    ] 
+    time: 500
+  }
+]
+
 category: units
-research: iron-forge
+research: ground-factory
 requirements: [
   iron/80
   titanium/60

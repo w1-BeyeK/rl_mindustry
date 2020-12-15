@@ -3,7 +3,7 @@ name: Sniper Turret
 description: Shoots from afar towards distanctant enemies.
 health: 200
 size: 3
-reload: 200
+reloadTime: 200
 range: 480
 craftTime: 300
 inaccuracy: 0
@@ -11,13 +11,13 @@ rotatespeed: 75
 outlineIcon:false
 targetAir:true
 targetGround:true
-ammo: {
+ammoTypes: {
   9mm: {
 	type: BasicBulletType
     speed: 30
     damage: 220
-    bulletWidth: 12
-    bulletHeight: 24
+    width: 12
+    height: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 7
@@ -26,8 +26,8 @@ ammo: {
 	type: BasicBulletType
     speed: 30
     damage: 300
-    bulletWidth: 12
-    bulletHeight: 24
+    width: 12
+    height: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 6
@@ -36,8 +36,8 @@ ammo: {
 	type: BasicBulletType
     speed: 30
     damage: 400
-    bulletWidth: 12
-    bulletHeight: 24
+    width: 12
+    height: 24
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
@@ -47,8 +47,8 @@ ammo: {
 	type: BasicBulletType
     speed: 45
     damage: 750
-    bulletWidth: 16
-    bulletHeight: 32
+    width: 16
+    height: 32
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 3

@@ -3,18 +3,18 @@ name: Plasma Turret
 description: Shoots plasma towards enemies.
 health: 400
 size: 3
-reload: 60
+reloadTime: 60
 range: 240
 craftTime: 150
 outlineIcon:false
 rotatespeed: 6
 targetAir: false
-ammo: {
+ammoTypes: {
 	nicd-battery: {
 		speed: 4
 		damage: 120
-		bulletWidth: 6
-		bulletHeight: 6
+		width: 6
+		height: 6
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 10
@@ -22,8 +22,8 @@ ammo: {
 	lipo-battery: {
 		speed: 5
 		damage: 180
-		bulletWidth: 12
-		bulletHeight: 12
+		width: 12
+		height: 12
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 12

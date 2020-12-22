@@ -1,5 +1,5 @@
 type: flying
-name:Winged demon
+name: Winged demon
 description: Strong flyer unit
 engineOffset:5.5
 speed:0.60
@@ -12,12 +12,13 @@ drag:0.02
 hitsize:20
 minePower:0
 itemCapacity:0
-weapon:
-[{
+weapons: [
+{
 	name: gattling-cannon
 	reload:15
 	bullet:	{
-			type: ShrapnelBulletType
+			type: BasicBulletType
+			damage: 50 
 			x: 0
   			y: 0
   			shootY: -1
@@ -25,18 +26,12 @@ weapon:
     		damage: 50
    			width: 8
     		height: 10
-    		shootEffect: shootSmall
-    		smokeEffect: shootSmallSmoke
     		ammoMultiplier: 2
-	serrationLenScl: 1
-    serrationSpaceOffset: 1
-    serrationFadeOffset: 0
-    serrations: 3
-    serrationWidth: 5			
 			frontColor:ff0000
-			backColor: ff0000
+			backColor: ffd8d8
 			homingPower:0
 			homingRange:0
 			fragBullets:0
 	}
-}]
+}
+]

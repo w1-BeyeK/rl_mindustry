@@ -1,7 +1,7 @@
 type: UnitFactory
 name: Winged Demon Factory
 description: Makes winged demons
-unitType: air
+unitType: fying
 size: 3
 produceTime: 650
 maxSpawn: 6

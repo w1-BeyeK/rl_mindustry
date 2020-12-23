@@ -1,6 +1,6 @@
 name: Super Vault
 description: Large vault.
-type: Vault
+type: StorageBlock
 itemCapacity: 250000
 hasItems: true
 health: 10000

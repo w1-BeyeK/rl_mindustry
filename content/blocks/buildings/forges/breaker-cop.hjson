@@ -1,0 +1,25 @@
+type:GenericCrafter
+name: Copper breaker
+description: Break copper in to raw copper
+health: 400
+size:2
+requirements: [
+  copper/20
+]
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 25
+consumes: {
+power:0.6
+ items: { 
+  items: [
+  copper/5
+]
+}
+}
+category:crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: raw-copper-ore/10
+research: copper-forge

@@ -1,0 +1,25 @@
+type:GenericCrafter
+name: Lead breaker
+description: Break lead in to raw lead
+health: 400
+size:2
+requirements: [
+  lead/20
+]
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 25
+consumes: {
+power:0.6
+ items: { 
+  items: [
+  lead/5
+]
+}
+}
+category:crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: raw-lead-ore/10
+research: lead-forge

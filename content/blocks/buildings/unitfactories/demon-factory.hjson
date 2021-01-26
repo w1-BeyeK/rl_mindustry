@@ -12,7 +12,7 @@ consumes: {
 
 plans: [
 { 
-	unit: winged-demon
+	unit: demon
     	requirements: [
      	 		 aluminum/25
   				titanium/15

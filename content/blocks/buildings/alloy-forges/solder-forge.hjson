@@ -1,4 +1,4 @@
-type: GenericSmelter
+type:GenericCrafter
 name: Solder Forge
 description: Solder forge.
 liquidCapacity: 0

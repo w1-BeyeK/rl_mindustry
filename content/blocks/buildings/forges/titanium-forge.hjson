@@ -1,4 +1,4 @@
-type:GenericSmelter
+type:GenericCrafter
 name: Titanium forge
 description: Basic Titanium forge
 health: 430

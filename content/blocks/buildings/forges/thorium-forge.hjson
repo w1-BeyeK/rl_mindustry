@@ -1,4 +1,4 @@
-type:GenericSmelter
+type:GenericCrafter
 name: Thorium forge
 description: Basic Thorium forge
 health: 440

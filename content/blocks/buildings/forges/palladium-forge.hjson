@@ -1,4 +1,4 @@
-type:GenericSmelter
+type:GenericCrafter
 name: Palladium forge
 description: Basic Palladium forge
 health: 560

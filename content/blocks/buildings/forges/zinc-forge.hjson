@@ -1,4 +1,4 @@
-type:GenericSmelter
+type:GenericCrafter
 name: Zinc forge
 description: Basic Zinc forge
 health: 480

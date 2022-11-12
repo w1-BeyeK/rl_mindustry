@@ -1,4 +1,4 @@
-type: GenericSmelter
+type:GenericCrafter
 name: Stainless steel Forge
 description: Stainless steel forge.
 liquidCapacity: 0

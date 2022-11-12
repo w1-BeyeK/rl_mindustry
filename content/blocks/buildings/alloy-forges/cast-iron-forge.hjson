@@ -1,4 +1,4 @@
-type: GenericSmelter
+type:GenericCrafter
 name: Cast Iron Forge
 description: Hardens iron.
 liquidCapacity: 0

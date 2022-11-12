@@ -1,4 +1,4 @@
-type:GenericSmelter
+type:GenericCrafter
 name: Tungsten forge
 description: Basic Tungsten forge
 health: 570

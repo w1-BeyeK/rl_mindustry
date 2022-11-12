@@ -1,4 +1,4 @@
-type: GenericSmelter
+type:GenericCrafter
 name: Hydrogen distiller
 description: Forms hydrogen.
 liquidCapacity: 50

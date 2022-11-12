@@ -1,4 +1,4 @@
-type: GenericSmelter
+type:GenericCrafter
 name: Magnox Forge
 description: Magnox forge.
 liquidCapacity: 0

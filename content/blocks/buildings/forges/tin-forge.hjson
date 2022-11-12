@@ -1,4 +1,4 @@
-type:GenericSmelter
+type:GenericCrafter
 name: Tin forge
 description: Basic Tin forge
 health: 470

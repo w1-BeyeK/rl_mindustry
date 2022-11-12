@@ -1,4 +1,4 @@
-type:GenericSmelter
+type:GenericCrafter
 name: Nickel forge
 description: Basic Nickel forge
 health: 490

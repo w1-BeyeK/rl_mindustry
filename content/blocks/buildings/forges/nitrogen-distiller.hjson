@@ -1,4 +1,4 @@
-type: GenericSmelter
+type:GenericCrafter
 name: Nitrogen distiller
 description: Forms nitrogens.
 liquidCapacity: 50

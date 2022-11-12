@@ -1,4 +1,4 @@
-type: GenericSmelter
+type:GenericCrafter
 name: Gunmetal Forge
 description: Gunmetal forge.
 liquidCapacity: 0

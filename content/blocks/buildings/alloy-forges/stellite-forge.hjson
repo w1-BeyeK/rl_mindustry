@@ -14,19 +14,19 @@ consumes: {
     items: [
       cobalt/3
 	  chromium/2
-	  tungsten/1
+	  wolfram/1
 	  nickel/1
     ]
   }
 }
 requirements: [
-  tungsten/30
+   wolfram/30
    palladium/30
    duralumin/50
    stainless-steel/60
 ]
 category: crafting
-research: tungsten-forge
+research: wolfram-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: stellite/3

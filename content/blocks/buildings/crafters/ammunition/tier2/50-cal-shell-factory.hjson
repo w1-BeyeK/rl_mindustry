@@ -15,7 +15,7 @@ consumes: {
       gunpowder/4
 	  brass/2
 	  stainless-steel/1
-	  tungsten/1
+	  wolfram/1
     ]
   }
 }

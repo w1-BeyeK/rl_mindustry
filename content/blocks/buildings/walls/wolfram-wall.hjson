@@ -1,0 +1,12 @@
+type:Wall
+name: Wolfram Wall
+description: Basic Wolfram wall
+requirements: [
+     wolfram/6
+]
+health: 2950
+size:1
+category:defense
+research: wolfram-forge
+craftTime: 380
+

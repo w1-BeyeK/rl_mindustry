@@ -1,0 +1,12 @@
+type:Wall
+name: Large Wolfram Wall
+description: Large Wolfram wall
+requirements: [
+     wolfram/20
+]
+health: 10600
+size:2
+category:defense
+research: wolfram-wall
+craftTime: 465
+

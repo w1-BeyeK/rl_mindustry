@@ -1,6 +1,6 @@
 type: material
-name: Tungsten
-description: Melted tungsten bar.
+name: Wolfram
+description: Melted wolfram bar.
 hardness: 1
 cost: 1
 color: 2e2e2e

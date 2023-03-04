@@ -1,15 +1,15 @@
 type:Conveyor
-name: Tungsten conveyor
-description: Tungsten conveyor
+name: Wolfram conveyor
+description: Wolfram conveyor
 requirements: [
-     tungsten/3
+     wolfram/3
 ]
 health: 440
 speed:0.44
 displayedSpeed:57.2
 category:distribution
 itemCapacity:38
-research: tungsten-forge
+research: wolfram-forge
 craftTime: 180
 canOverdrive:false
 

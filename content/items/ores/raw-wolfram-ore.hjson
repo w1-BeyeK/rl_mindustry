@@ -1,0 +1,6 @@
+type: resource
+name: Raw Wolfram Ore
+description: raw wolfram ore.
+hardness: 2
+cost: 2
+color: 2e2e2e

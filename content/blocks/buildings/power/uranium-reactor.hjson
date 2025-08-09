@@ -1,4 +1,4 @@
-type: NuclearReactor
+type: ConsumeGenerator
 name: Uranium reactor
 description: Produces power from uranium cells
 size: 4
